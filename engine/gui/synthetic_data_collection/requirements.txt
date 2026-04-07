@@ -1,0 +1,11 @@
+numpy
+opencv-python
+pillow
+pandas
+pyautogui
+mss
+python-xlib
+cairosvg
+scipy 
+psutil
+tqdm
