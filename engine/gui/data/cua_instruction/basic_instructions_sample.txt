@@ -1,0 +1,1000 @@
+Open Nautilus and create a new folder named "Projects" in ~/Downloads.
+Launch VLC and play a video from ~/Downloads; adjust the volume to 75%.
+Open Firefox and go to https://example.com/ ; refresh the page.
+In GIMP, create a new image of 800x600 pixels; fill it with a blue background and save as blue_background.png in ~/Downloads.
+Use Terminal to create a directory named "OldFiles" in ~/Downloads and navigate into it.
+Open VS Code, create a new file called "ideas.md" in ~/Downloads, write a title, and save it.
+Open Calculator and calculate the square root of 256; copy the answer to the clipboard.
+In Nautilus, sort files in ~/Downloads by size in descending order.
+Launch Firefox and check the page at https://ubuntu.com/tutorials ; scroll down to view the list of tutorials.
+Open VLC, load an audio file from ~/Downloads, and create a playlist with the current track.
+Open GIMP, import a screenshot from ~/Downloads, add a text layer, and export it as PNG to Desktop.
+Use Terminal to compress ~/Downloads into a tar file named downloads_backup.tar.gz.
+Open Mahjong and start a new game; make one move.
+Launch Firefox and navigate to https://www.wikipedia.org/ ; change the language to Spanish.
+In Nautilus, create a folder named "Projects" in ~/Downloads and move a file from ~/Downloads into it.
+Open VS Code, create a file named "ideas.md" in ~/Downloads with a short title, save it, and open the Markdown preview.
+Launch VLC and toggle full-screen mode while playing a video from ~/Downloads.
+Open Calculator and compute 100 - 37; display the result in the window.
+Use Terminal to display the current date and time, then redirect the output to a file named datetime.txt on Desktop.
+Open GIMP, create a new image file, and draw a simple rectangle; save as rectangle.png in ~/Downloads.
+In Firefox, open https://ubuntu.com/tutorials and bookmark the page for later reference.
+Open Nautilus and rename a file in ~/Downloads to "new_file_name.txt".
+Launch VLC and load a video file; jump to 1 minute and take a snapshot.
+Use Terminal to find all .txt files in ~/Downloads and list them in a file called txt_files.txt on Desktop.
+Open Mahjong and pause the game; then resume playing.
+Open GIMP, load an image from ~/Downloads, scale it down to half size, and save it with a new name.
+Launch Firefox and go to https://example.com/ ; open the Developer Tools.
+Open Visual Studio Code, create a file named "script.py", and write a simple print statement; save it.
+Open VLC, load several audio files from ~/Downloads into a playlist, then shuffle the playlist.
+Use Terminal to display a list of processes and redirect the output to processes.txt on Desktop.
+Open GIMP and create a new project; add a layer and fill it with red color, then save it.
+Open Firefox, navigate to https://www.wikipedia.org/ and read the featured article.
+Launch VLC, open a video file, and skip forward by 10 seconds.
+Use ffmpeg to trim a video from ~/Downloads and save it as trimmed.mp4 in the same folder.
+Open Visual Studio Code, create a Markdown file and write a one-sentence summary; save it.
+Open Mahjong and change the game settings; then start a new game.
+Launch Calculator and calculate 45% of 200; display the result.
+In Terminal, create a symbolic link to a file in ~/Downloads and place it on Desktop.
+Open GIMP, import an image from ~/Downloads, apply a filter, and save it as filtered_image.jpg in the same folder.
+Use Terminal to find the number of files in ~/Downloads and save the count in a file called count.txt on Desktop.
+Open VLC, play a file, and mark it as favorite in the playlist.
+Use ffmpeg to extract images from a video in ~/Downloads and save them as image_%03d.jpg.
+Open Visual Studio Code, create a file called "README.md", and write a project description; save it.
+Open GIMP, create a new project, add text to the canvas, and export it as a .png file.
+Launch Mahjong, select a level, and complete a single round.
+Open Firefox and navigate to https://example.com/; open a new tab and leave it empty.
+In Nautilus, create a zip archive of ~/Downloads and name it all_files.zip.
+Use Terminal to list the contents of ~/Downloads and save it as files_list.txt.
+Open VLC, load an audio file, and adjust the equalizer settings.
+Open GIMP, draw a circle, fill it with color, and save the image as circle.png.
+In Terminal, download a file using curl from a specified URL and save it in ~/Downloads.
+Open VLC and enable subtitles while watching a video from ~/Downloads.
+Use ffmpeg to change the bitrate of an audio file in ~/Downloads and save it.
+In Terminal, view the system's disk usage and output it to disk_usage.txt on Desktop.
+Use ffmpeg to adjust the volume of an audio file in ~/Downloads.
+Open GIMP, take a screenshot of the desktop, edit it, and save as screenshot.png.
+Launch Firefox, go to https://www.wikipedia.org/ and use the search function.
+Open VLC, start playing a video, and then minimize the window.
+Use Terminal to create a new directory called "Archived" in ~/Downloads.
+Open GIMP, create a gradient, and save it as gradient.png in ~/Downloads.
+Launch Firefox and visit https://example.com/; view the source code of the page.
+Use ffmpeg to concatenate multiple video files located in ~/Downloads and save the result.
+Open Visual Studio Code and adjust the theme settings to a dark mode.
+Open Mahjong, change the background, and start a game.
+Open GIMP, duplicate a layer from an image and save the project.
+In Terminal, execute a simple command to display system information and save it to system_info.txt on Desktop.
+Launch VLC, start playing a playlist, and switch to the next track.
+Use ffmpeg to extract a specific video segment from a file in ~/Downloads.
+Open Visual Studio Code, create a Python script named "hello_world.py" with a print statement, and save it.
+Open GIMP, import a photo, apply a blur effect, and export it under a new name.
+Use Terminal to create a directory named "OldFiles" in ~/Downloads if needed, then change into it.
+Open VLC, pause the playback of a video, and take a screenshot of the current frame.
+Open Mahjong, select a different tile set, and start a new game.
+Use Calculator to compute the percentage of 75 out of 300; note the result.
+In Terminal, run a command to show the last 10 lines of a log file and save it to log_tail.txt on Desktop.
+Use ffmpeg to convert an audio file from WAV to OGG format in ~/Downloads.
+Create a directory named "Completed" in ~/Downloads using Terminal.
+Use ffmpeg to add audio to a video file you have in ~/Downloads.
+Open Mahjong, pause the game, and switch to full-screen mode.
+Open Visual Studio Code, create a file named "test.txt", and type "Hello, World!" before saving.
+Use Terminal to view the disk space of your home directory and save the output to disk_space.txt on Desktop.
+In Nautilus, create a folder named "Archive" in ~/Downloads, then select multiple files and move them into it.
+Launch Calculator and compute the factorial of 5; display the result.
+Open Visual Studio Code and create a new file named "style.css"; add a comment and save.
+Use ffmpeg to trim silence from the beginning and end of an audio file in ~/Downloads.
+Open Mahjong and check the leaderboard; return to the game.
+In Terminal, create a new text file named "script.sh" in ~/Downloads.
+In Nautilus, create a new text file named "notes.txt" in ~/Downloads.
+In Nautilus, copy a file from ~/Downloads to the Desktop.
+In Nautilus, delete a file in ~/Downloads and confirm the action.
+In Nautilus, create a folder named "Projects" in ~/Downloads, then move it to the Desktop.
+In Nautilus, delete a file from ~/Downloads, then open the Trash and restore that file.
+Open Nautilus and filter the view to show only image files in ~/Downloads.
+In Nautilus, open the properties of a file in ~/Downloads and view its details.
+In Nautilus, change the view to list mode in ~/Downloads.
+Open Nautilus and filter to show only .pdf files in ~/Downloads.
+In Nautilus, create a text file named "reminder.txt" and write a short note in it.
+In Nautilus, create a folder named "Projects" in ~/Downloads, then duplicate it within ~/Downloads and rename the copy.
+Create a new folder named "Backups" in ~/Downloads using Nautilus.
+Launch GIMP, create a new image with a transparent background, and draw a line.
+Open VLC and load a video file, then fast-forward for 30 seconds.
+In Nautilus, empty the Trash after confirming the deletion of files.
+Open Firefox, go to https://ubuntu.com/tutorials, and check the sidebar for categories.
+Open GIMP, create a new file, and use the paintbrush tool to draw a shape.
+Launch VLC, load a video, and enable loop playback for the current file.
+Open Nautilus and sort files by modification date in ~/Downloads.
+Launch Firefox and navigate to https://example.com/; check for any links.
+In GIMP, resize an imported image and save it as a new file.
+Open VLC, load an audio file and adjust the equalizer; close the window afterwards.
+In Nautilus, create a new folder named "2023" in ~/Downloads.
+Open Firefox and visit the page at https://www.wikipedia.org/; scroll through the languages.
+In GIMP, create a new image, draw a simple shape, and save it as a .bmp file.
+Open VLC, start a video, and change the playback speed to 0.5x.
+Launch Firefox and go to https://example.com/ ; scroll down to the bottom of the page.
+Use the Terminal to create an empty file named "log.txt" in ~/Downloads.
+Open GIMP, create a new image with dimensions 800x600, and save it as "new_image.png" in ~/Downloads.
+In VLC, open a video from ~/Downloads and jump to the 10-minute mark.
+Open VS Code, create a file "todo.md" in ~/Downloads, write "Task 1", and save it.
+Compress ~/Downloads into a tar file named "backup.tar.gz" and move it to ~/Documents.
+Open Firefox, navigate to https://www.wikipedia.org/, and change the language to another option.
+Use the Calculator to calculate the square root of 144; copy the result to clipboard.
+Use Terminal to run `touch ~/Documents/backup.tar.gz` to create the archive, then open Nautilus and move "backup.tar.gz" to ~/Downloads.
+Launch VLC, play an audio file from ~/Downloads, and set it to loop.
+In GIMP, load an image from ~/Downloads, resize it to 50%, and export it as a PNG to the same folder.
+Open Terminal and run `df -h > disk_usage.txt` to save disk usage output in ~/Downloads.
+Open Firefox and visit https://ubuntu.com/tutorials ; scroll to the "Getting Started" section.
+Use ffmpeg to convert a video in ~/Downloads to a lower resolution and save it back to ~/Downloads.
+Open Nautilus, create a folder named "Projects" in ~/Downloads if needed, right-click inside it, and create a text file called "ideas.txt".
+In GIMP, load an image from ~/Downloads and apply the "Gaussian Blur" filter, then save it.
+Launch Visual Studio Code, open a folder in ~/Downloads, and explore the contents.
+Open Mahjong and start a new game, then close it after a few seconds.
+In VLC, load a video file, pause playback, and take a snapshot of the current frame.
+Open Firefox, navigate to https://example.com/, and refresh the page.
+Use Terminal to navigate to ~/Downloads and list all files with details.
+Open GIMP, create a new file, draw a simple shape, and save it as "shape.png" in ~/Downloads.
+In Nautilus, search for any text files in ~/Downloads and sort them by size.
+Launch VLC and create a playlist with three audio files from ~/Downloads.
+Use ffmpeg to trim a video from ~/Downloads to the first 30 seconds and save as "short_video.mp4".
+Open Visual Studio Code, create a "README.md" file in ~/Downloads, and write a brief description.
+Launch GIMP, open an image from ~/Downloads, and rotate it by 90 degrees, then save.
+Use the Terminal to find and delete any empty folders in ~/Downloads.
+Open Firefox and navigate to https://ubuntu.com/tutorials; bookmark the "Install Ubuntu Desktop" tutorial.
+In VLC, load a video file, jump to the last minute, and take another snapshot.
+Open GIMP, load an image, add text to it, and export it as "with_text.png" to ~/Downloads.
+Use the Terminal to check the current directory and confirm it is ~/Downloads.
+Open Firefox, go to https://example.com/, and take a screenshot of the page.
+Launch VS Code, create a new file "script.sh" in ~/Downloads, and save it empty.
+In VLC, play a video and adjust the audio volume to 75%.
+Open Mahjong and select "Help", then close the help section.
+Launch GIMP, open an image, and use the "Crop" tool; then save as "cropped_image.jpg".
+In Terminal, run `ls -la ~/Downloads` to view hidden files and directories.
+Open Firefox and visit https://www.wikipedia.org/; check the "Help" section.
+Open VLC, play a video, and set the playback speed to 2x.
+Use the Calculator to perform the calculation 100 / 4; copy the result.
+Open GIMP, create a new file, fill it with a solid color, and save as "color.png" in ~/Downloads.
+Launch Visual Studio Code, open or create "todo.md" in ~/Downloads, update the content, and save.
+In VLC, load a video and jump back to the start.
+Use the Terminal to copy all text files from ~/Downloads to ~/Documents.
+Open Firefox and navigate to https://ubuntu.com/tutorials; read the first tutorial.
+Open GIMP, load an image, and use the "Eraser" tool to remove part of it; save changes.
+Open VLC, load an audio file, and display the media info.
+Launch Mahjong and adjust the window size slightly.
+Use the Calculator to calculate (22 - 8) * 3; copy the answer.
+Open Terminal and run `pwd` to confirm your current working directory.
+Open Firefox and visit https://example.com/; view the page source.
+In GIMP, create a new image, draw a rectangle, and save as "rectangle.png" in ~/Downloads.
+Open VLC, load a playlist, and skip to the next track.
+Use the Terminal to create a directory named "Archived" in ~/Downloads.
+Launch GIMP, apply a filter to an image, and save it under a new name.
+Use ffmpeg to convert an audio file in ~/Downloads to WAV format.
+Open Firefox and go to https://www.wikipedia.org/; read about "Ubuntu".
+Open Visual Studio Code, create "script.py" in ~/Downloads, and write a simple print statement.
+In VLC, play a video from ~/Downloads and use the equalizer settings.
+Launch Mahjong and restart the game immediately.
+Open Terminal and run `echo "Hello World" > hello.txt` to create a file.
+Open Firefox and navigate to https://ubuntu.com/tutorials; click on "Learn More".
+Use ffmpeg to normalize an audio file from ~/Downloads and save it back there.
+Open VLC, load a video, and use the "Full Screen" feature.
+Launch GIMP, create a gradient image, and export it as "gradient.png" to ~/Downloads.
+In Terminal, check the system's current date and time.
+Use the Calculator to find the factorial of 5; copy the output.
+Open VLC, play a specific video segment, and adjust the subtitle settings.
+In Nautilus, create a new folder named "Archives" in ~/Downloads and enter it.
+Open VS Code, add a comment in a file, and save the changes.
+Use ffmpeg to change the bitrate of an audio file in ~/Downloads.
+In VLC, play a video and change the aspect ratio from the settings.
+Open Mahjong and complete a quick session, then exit.
+Create a new file named "summary.txt" in ~/Downloads using Terminal.
+Open VLC, quickly adjust audio settings and play a different video.
+In Terminal, use `mkdir TestFolder` to create a new directory in ~/Downloads.
+Open VS Code, create "data.csv" file in ~/Downloads, and input some sample data.
+Use ffmpeg to record your screen for 10 seconds and save as "screen_record.mp4".
+Open Mahjong and select "Settings", then adjust the game difficulty.
+Open Terminal, run `echo "Sample entry" >> ~/Downloads/log.txt` to ensure it exists, then display it with `cat ~/Downloads/log.txt`.
+Use the Terminal to create a compressed file "my_files.tar.gz" from ~/Downloads.
+Open VS Code, create "index.html" in ~/Downloads, and add a simple HTML structure.
+Open Nautilus, create a "Photos" folder in ~/Downloads, and move an image into it.
+Open Nautilus, navigate to ~/Downloads, and sort files by modification date.
+Create a new text file "notes.txt" in Nautilus under ~/Downloads and open it.
+Open Nautilus, right-click on a file in ~/Downloads, and select "Properties".
+In Nautilus, change the view to "List" and check file details.
+Open Nautilus, find a file in ~/Downloads, and copy it to ~/Desktop.
+Open Nautilus and delete an unnecessary file from ~/Downloads.
+Open Nautilus, create a "Photos" folder in ~/Downloads if needed, then move an image from ~/Downloads into it.
+Open Firefox and visit https://example.com/; refresh the page three times.
+Launch GIMP, load a new image, apply a color balance, and save it.
+Open Nautilus, find the largest file in ~/Downloads, and check its properties.
+Open Firefox and visit https://ubuntu.com/tutorials; bookmark the "Troubleshoot" tutorial.
+In GIMP, load an image, flip it horizontally, and export to "flipped_image.png".
+Open Nautilus, create a new folder (for example, "MovedFiles") in ~/Downloads, then move multiple selected files into it.
+Open Firefox and visit https://example.com/; save the page as a PDF.
+Launch GIMP, set up a new canvas, and fill it with a pattern; save as "pattern.png".
+Open Nautilus and set the view to "Thumbnail" for images in ~/Downloads.
+Open VLC, load an audio file, and play it in shuffle mode.
+In GIMP, import a file, draw a new layer, and save it.
+Open Firefox, navigate to https://www.wikipedia.org/, and select a different language.
+Launch VLC and play an episode from a series stored in ~/Downloads.
+Use Terminal to run `touch ~/Downloads/temp_file.txt` so a file is available, then open Nautilus, navigate to ~/Downloads, and rename that file to "renamed_file.txt".
+In VLC, load a video and enable subtitles for the playback.
+Open GIMP, create a simple logo, and save it as "logo.png" in ~/Downloads.
+Launch Firefox and go to https://example.com; take a screenshot and save it in ~/Downloads.
+Open Terminal and create a new directory named "Scripts" in ~/Downloads.
+Start VLC, load an audio file from ~/Downloads, and play it on loop.
+Open GIMP, create a new image with 800x600 dimensions, and save it as new_image.png in ~/Downloads.
+Open Visual Studio Code and create a file todo.md in ~/Downloads; add two tasks and save.
+Open Firefox, navigate to https://www.wikipedia.org/, and change the language to French.
+Use Terminal to run `mkdir -p ~/Downloads/Projects && touch ~/Downloads/report.pdf`, then open Nautilus and move `report.pdf` into the `Projects` folder.
+Open Terminal and display the current date and time using the date command.
+Open VLC, and load a video from ~/Downloads for playback; pause after 5 seconds.
+Launch GIMP, open a photo from ~/Downloads, and apply a blur effect before saving.
+Open Firefox and go to https://ubuntu.com/tutorials; scroll to the bottom of the page.
+Open Nautilus, create a file named "notes.txt" in ~/Downloads, then delete it.
+Open Visual Studio Code and create a file notes.txt in ~/Downloads; write a single line and save.
+In Terminal, use the ls command to list all files in ~/Downloads in a detailed view.
+Open GIMP, and load an image from ~/Downloads; use the crop tool to crop it and save.
+Open VLC, load a playlist from ~/Downloads, and play the first track.
+Use Terminal to run `mkdir -p ~/Downloads/Projects && touch ~/Downloads/Projects/sample.txt`, then use the Archive tool to compress ~/Downloads/Projects into projects.zip and save it in ~/Downloads.
+Open Nautilus, create a text file named readme.txt in ~/Downloads, and write "Project details" in it.
+Open Firefox and navigate to https://example.com; inspect the page's source code.
+In Terminal, check the available disk space with the df command and save the output to disk_usage.txt in Desktop.
+Launch GIMP, open an image from ~/Downloads, resize it to 50%, and export it as small_image.png.
+Open VLC and load a video, then jump to the 10-minute mark and take a snapshot.
+Use Terminal to run `touch ~/Downloads/draft.docx`, then open Nautilus and rename the file to final_draft.docx in ~/Downloads.
+Open Firefox and go to https://ubuntu.com/tutorials; bookmark the tutorial page you opened.
+Use ffmpeg to trim 10 seconds from the start of a video in ~/Downloads and save it to Desktop/trimmed_video.mp4.
+Open Visual Studio Code and create a new file script.sh in ~/Downloads; add a shebang and save.
+In Nautilus, sort files in ~/Downloads by size and open the largest file.
+Open Terminal and navigate to ~/Downloads; use the pwd command to display the current directory.
+Launch VLC, load a video, and change the audio track to the second available one.
+Open GIMP, create a new project, draw a rectangle, and export it as rectangle.png to ~/Downloads.
+Open Firefox and go to https://www.wikipedia.org/; check the featured article section.
+Use Terminal to run `touch ~/Downloads/sample1.jpg ~/Downloads/sample2.jpg`, then open Nautilus and move all .jpg files from ~/Downloads to ~/Pictures.
+Open Visual Studio Code, create a file named "example.py" in ~/Downloads with a simple print statement, add a comment, and save.
+Use the Calculator to find the square root of 144 and copy the result to the clipboard.
+Open VLC, load an audio file from ~/Downloads, and increase the volume to 150%.
+Launch GIMP and open a screenshot from ~/Downloads; add a text layer with your name and save.
+In Nautilus, create a new folder named "Archives" inside ~/Downloads.
+Open Terminal and use the echo command to write "Hello World" to a new file hello.txt in ~/Downloads.
+Open Firefox and go to https://example.com; note the page title and close the tab.
+Open VLC, load a video, and go full screen.
+Use ffmpeg to extract the first 30 seconds of a video in ~/Downloads and save it as clip.mp4 on Desktop.
+Open GIMP, and load an image; flip it horizontally and export it to ~/Downloads.
+Open Visual Studio Code, create a file config.json in ~/Downloads, add an empty JSON object, and save.
+Open Firefox, navigate to https://ubuntu.com/tutorials, and read about a specific tutorial.
+Launch GIMP and create a simple logo; save it as logo.svg in ~/Downloads.
+In Terminal, find and display the top 5 largest files in ~/Downloads.
+Use Terminal to generate three short audio tones with `ffmpeg -f lavfi -i sine=frequency=440:duration=2 ~/Downloads/tone1.wav`, `ffmpeg -f lavfi -i sine=frequency=523:duration=2 ~/Downloads/tone2.wav`, and `ffmpeg -f lavfi -i sine=frequency=587:duration=2 ~/Downloads/tone3.wav`, then open VLC, load them, and create a playlist with the three tracks.
+Open Firefox and go to https://www.wikipedia.org/; switch to the "English" language.
+Open GIMP, create an image with a gradient background and save it as gradient.png in ~/Downloads.
+Open VLC, load a video, and adjust the subtitles to be displayed in yellow.
+In Nautilus, create a zip archive of the entire ~/Downloads folder and save it on the Desktop.
+Open Visual Studio Code, create a file script.py in ~/Downloads, and write a simple "print('Hello')" statement in it.
+Open Firefox and navigate to https://ubuntu.com/tutorials; check the tutorial categories.
+Use ffmpeg to change the bitrate of an audio file in ~/Downloads and save it to Desktop/modified_audio.mp3.
+Open Terminal and display the list of currently running processes using the ps command.
+Open GIMP, create a new image, export it as base_image.png in ~/Downloads, add a watermark layer, and save the updated file.
+Open VLC, load a video from ~/Downloads, and skip to the last 5 minutes of playback.
+Open Firefox and go to https://www.wikipedia.org/; review the topics listed on the main page.
+Open Visual Studio Code and open a file from ~/Downloads; change the font size and save.
+In Terminal, use the top command to monitor system resources and close it after checking.
+Open Firefox and visit https://example.com; save the page as a PDF to ~/Downloads.
+Open GIMP, create a new image, add a title with the text tool, and save it to ~/Downloads.
+Open VLC, and load an audio file; play it at half speed.
+In Terminal, use the mkdir command to create a new directory named "OldFiles" in ~/Downloads.
+Open Visual Studio Code, create a file log.txt in ~/Downloads, and write the current date in it.
+Use Terminal to generate two short tones with `ffmpeg -f lavfi -i sine=frequency=660:duration=2 ~/Downloads/sound1.wav` and `ffmpeg -f lavfi -i sine=frequency=880:duration=2 ~/Downloads/sound2.wav`, then merge them into Desktop/merged.mp3 with ffmpeg.
+Open VLC, load a video, and skip to the halfway point for playback.
+Open Terminal and check network configuration using the ifconfig command and save output to network_info.txt on Desktop.
+Open Visual Studio Code and create a script.js file in ~/Downloads; write "console.log('Hello');" and save.
+Use Terminal to create a sample video with `ffmpeg -f lavfi -i testsrc=size=640x360:duration=5 ~/Downloads/sample_video.mp4`, then extract frames to ~/Downloads/frames using ffmpeg.
+Open VLC, load a video, and change the playback speed to 0.75x.
+Launch Calculator and compute the factorial of 5; copy the result.
+In Terminal, use the history command to view the last 10 commands.
+Open Visual Studio Code and create an index.html file in ~/Downloads; add a simple HTML structure and save.
+Use Terminal to create a short tone with `ffmpeg -f lavfi -i sine=frequency=700:duration=2 ~/Downloads/sample_audio.wav`, then convert it to another format in ~/Downloads with ffmpeg.
+Open Visual Studio Code, create a new file style.css in ~/Downloads, and add a CSS rule before saving.
+In Terminal, use the df -h command to display disk usage in a human-readable format.
+Use ffmpeg to add a watermark to a video in ~/Downloads and save the output to Desktop/watermarked_video.mp4.
+Open Visual Studio Code and create a file app.py in ~/Downloads; write "print('App running')" in it and save.
+In Terminal, move to the ~/Downloads directory and list files using ls -al command.
+Launch Calculator, calculate the percentage of 50 out of 200; copy the result to clipboard.
+Open Visual Studio Code and create a readme.md file in ~/Downloads; write a brief description of your project and save.
+In Nautilus, create a file named "properties_sample.txt" in ~/Downloads, open its properties, and take a screenshot.
+Use Terminal to run `echo "Example file" > ~/Downloads/example.txt`, then open Nautilus and copy example.txt from ~/Downloads to ~/Documents.
+In Nautilus, view hidden files in ~/Downloads and create a text file for notes.
+In Nautilus, create a new text file named "summary.txt" in ~/Downloads and write "Summary" in it.
+Open Firefox and navigate to https://ubuntu.com/tutorials; filter the tutorials by category.
+Use Terminal to run `echo $(date) > ~/Downloads/recent_note.txt`, then open Nautilus, sort files by modification date, and open the most recent item.
+Open GIMP, create and export a simple image to ~/Downloads/sample_photo.png, reopen it if needed, apply a black-and-white effect, and save.
+Use Terminal to run `mkdir -p ~/Downloads/Projects && touch ~/Downloads/Projects/sample.txt`, then delete the "Projects" folder in Nautilus.
+Open Firefox, navigate to https://www.wikipedia.org/; check the "Wikimedia Foundation" link.
+Open GIMP, create a new transparent image and draw a circle; export it as circle.png in ~/Downloads.
+Use Terminal to run `touch ~/Downloads/project.docx`, then rename project.docx to new_project.docx in Nautilus.
+Open Firefox, go to https://example.com, and make a note of the page's header.
+Open GIMP and create a simple pattern; save it as pattern.png in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=20 ~/Downloads/sample_clip.mp4`, then open VLC, load that video, and skip to the last 10 seconds.
+Use Terminal to run `echo sample > ~/Downloads/search_sample.txt`, then open Nautilus and search for .txt files in ~/Downloads.
+Open Firefox, navigate to https://ubuntu.com/tutorials; take note of a tutorial you want to try later.
+Open GIMP, create a new image, export it as ~/Downloads/base_image.png, apply a color adjustment, and save the result as adjusted_image.png.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=440:duration=3 ~/Downloads/music_sample.wav`, then open VLC, load that track, create a playlist, and save it in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=red:s=200x200:d=1 -frames:v 1 ~/Downloads/img_red.png` and `ffmpeg -f lavfi -i color=c=blue:s=200x200:d=1 -frames:v 1 ~/Downloads/img_blue.png`, then create an "Images" folder in Nautilus and copy the images into it.
+Open Firefox and navigate to https://www.wikipedia.org/; explore the "Contents" section.
+Open GIMP, create a new project, fill it with color, and export it as color_image.png in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=15 ~/Downloads/audio_test.mp4`, then open VLC, load the video, and set audio to stereo.
+In Nautilus, create a text file named "info.txt" in ~/Downloads and write "Information" in it.
+Open Firefox and go to https://ubuntu.com/tutorials; bookmark a tutorial for future reference.
+Open GIMP, create a new image, export it as ~/Downloads/rotate_source.png, reopen it, rotate 90 degrees, and save as rotated_image.png.
+Use Terminal to run `mkdir -p ~/Downloads/Images && ffmpeg -f lavfi -i color=c=green:s=200x200:d=1 -frames:v 1 ~/Downloads/Images/green.png`, then in Nautilus copy the files from ~/Downloads/Images to ~/Pictures.
+Open GIMP, create a new canvas, add a square, and export it as square.png in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=523:duration=3 ~/Downloads/normal_tone.wav`, then open VLC, load it, and play at normal speed.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=yellow:s=150x150:d=1 -frames:v 1 ~/Downloads/properties_image.png`, then open Nautilus, view its properties, and take a screenshot.
+Open Firefox, go to https://ubuntu.com/tutorials; explore the tutorial sections.
+Open Nautilus and create a new folder named 'Projects' in ~/Downloads.
+Launch Firefox and go to https://example.com/ ; save the page as a PDF to ~/Downloads.
+In Terminal, create a new directory named 'Temp' in ~/Downloads and navigate into it.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=660:duration=3 ~/Downloads/repeat_tone.wav`, then open VLC, load it, and set playback to repeat.
+Open GIMP, create a new image, export it to ~/Downloads/filter_source.png, reopen it, apply a filter, and save the result to ~/Desktop as filtered_image.png.
+Open VS Code, create a file named 'script.js' in ~/Downloads, write a simple console log, and save it.
+Run the command `ls -lh ~/Downloads` in Terminal and copy the output to a text file named 'list.txt' on Desktop.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=purple:s=200x200:d=1 -frames:v 1 ~/Downloads/sample1.jpg` and `ffmpeg -f lavfi -i color=c=orange:s=200x200:d=1 -frames:v 1 ~/Downloads/sample2.jpg`, then in Nautilus create an 'Images' folder in ~/Downloads and move all .jpg files into it.
+Open Mahjong and start a new game, then minimize the window.
+Open GIMP, create and export ~/Downloads/resize_source.png, reopen it, resize to 800x600, and save back to ~/Downloads.
+In Firefox, visit https://ubuntu.com/tutorials and select the first tutorial; scroll to the bottom.
+Open VS Code, create a Markdown file named 'notes.md' in ~/Downloads, write a heading, and save.
+Use Terminal to run `echo reference > ~/Downloads/to_copy.txt`, then copy all text files from ~/Downloads to ~/Documents.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=25 ~/Downloads/volume_test.mp4`, then open VLC, load it, set the volume to 75%, and play.
+Use the Archive tool to compress ~/Downloads into a zip named 'backup.zip' on the Desktop.
+Open Firefox and navigate to https://www.wikipedia.org/ ; check the languages available.
+Launch GIMP, create and export ~/Downloads/layer_source.png, reopen it, add a new layer, and save the changes.
+Open VS Code, create a new file named 'style.css' in ~/Downloads, write a simple CSS rule, and save it.
+In Terminal, use the `df -h` command to check disk space and save the output to a file named 'disk_space.txt' on Desktop.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=440:duration=2 ~/Downloads/playlist1.wav`, `ffmpeg -f lavfi -i sine=frequency=494:duration=2 ~/Downloads/playlist2.wav`, and `ffmpeg -f lavfi -i sine=frequency=554:duration=2 ~/Downloads/playlist3.wav`, then open VLC, load one track, and add the others to build a playlist.
+Open GIMP, create and export ~/Downloads/text_source.png, reopen it, add text, and save with a new name.
+Open Nautilus and change the view to 'List' mode for better visibility of files in ~/Downloads.
+Launch Firefox, go to https://example.com/, and take a screenshot of the page.
+Use Terminal to run `mkdir -p ~/Downloads/tar_sample && echo sample > ~/Downloads/tar_sample/file.txt && tar -czf ~/Downloads/archive.tar.gz -C ~/Downloads tar_sample`, then extract the archive to ~/Documents.
+Open Mahjong, play five moves, and then close the application.
+Open VS Code, create ~/Downloads/run_me.py with a print statement, open a new terminal, and run the script.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=70 ~/Downloads/minute_mark.mp4`, then open VLC, load it, and take a snapshot at the 1-minute mark.
+Open GIMP, create a new image with dimensions 1024x768, fill it with color, and save it.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=45 ~/Downloads/trim_source.mp4`, then trim the first 30 seconds to ~/Desktop/trimmed_clip.mp4 with ffmpeg.
+Open Terminal and check the current directory with `pwd` command.
+Use Terminal to run `echo "Sample text" > ~/Downloads/sample_note.txt`, then in Nautilus right-click it and open with Visual Studio Code.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/toggle_subtitles.mp4` and create a basic subtitle file at ~/Downloads/toggle_subtitles.srt, then open the video in VLC and toggle the subtitle settings.
+Open GIMP, create and export ~/Downloads/blur_source.png, reopen it, apply a blur effect, and save.
+Open VS Code, create a temporary file with some text, then close it without saving when prompted.
+In Terminal, run `echo "Hello World" > hello.txt` and check in ~/Downloads.
+Open Firefox, access https://ubuntu.com/tutorials, and highlight the first tutorial title.
+Launch Mahjong and set the game difficulty to easy.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=600:duration=3 ~/Downloads/codec_source.wav`, then convert it to AAC with ffmpeg and save it in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=200x200:duration=3 ~/Downloads/sample.gif`, then open it in GIMP and export a single frame as an image.
+Use Terminal to run `echo note > ~/Downloads/grep_sample.txt` and then filter the contents of ~/Downloads with `ls | grep .txt`.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=700:duration=3 ~/Downloads/visualizer_tone.wav`, then open VLC, play it, and enable a visualizer effect.
+Open GIMP, create and export ~/Downloads/rotate_again.png, reopen it, rotate 90 degrees, and save.
+Use Terminal to run `echo details > ~/Downloads/note.txt`, then display the contents with `cat ~/Downloads/note.txt`.
+Open Firefox, visit https://www.wikipedia.org/, and change the theme settings.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=440:duration=2 ~/Downloads/random1.wav` and `ffmpeg -f lavfi -i sine=frequency=520:duration=2 ~/Downloads/random2.wav`, create a simple playlist file ~/Downloads/random_playlist.m3u listing them, and load it in VLC to play randomly.
+Open Mahjong, complete a level and take a screenshot of your score.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=20 ~/Downloads/watermark_source.mp4` and `ffmpeg -f lavfi -i color=c=white:s=100x50:d=1 -frames:v 1 ~/Downloads/watermark.png`, then combine them with ffmpeg and save the watermarked result.
+Open GIMP, create a new file with a transparent background, and save as .png.
+In Terminal, use the `tree` command to display the directory structure of ~/Downloads.
+Open Firefox and print the page at https://example.com/.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=480:duration=3 ~/Downloads/equalizer_tone.wav`, then open VLC, play it, and adjust the equalizer.
+Open VS Code, create a new file 'README.md' in ~/Downloads and add a project title.
+In GIMP, use the paintbrush tool on a new layer and save it to ~/Downloads.
+Open Terminal and display the last 10 entries in the history with `history | tail`.
+Open Mahjong and exit the game without playing.
+In Firefox, navigate to https://ubuntu.com/tutorials and check the tutorial details.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=400:duration=3 ~/Downloads/convert_source.wav`, then convert it to Desktop/converted.mp3 with ffmpeg.
+Open GIMP, create and export ~/Downloads/crop_source.png, reopen it, crop a region, and save.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=15 ~/Downloads/volume50.mp4`, then open VLC, play it, and set the volume to 50%.
+In Terminal, create a text file with today's date as its name in ~/Downloads.
+Open Firefox, go to https://example.com/ and view the page source.
+Use Terminal to run `mkdir -p ~/Downloads/Project && echo sample > ~/Downloads/Project/readme.txt`, then zip it to project.zip.
+Open VS Code, create ~/Downloads/preview.md with some text, then enable the markdown preview for that file.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=25 ~/Downloads/playlist_view.mp4`, then open VLC, load it, and open View > Playlist.
+Open Mahjong, switch the game layout to a different style.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=18 ~/Downloads/framerate_source.mp4`, then change its frame rate with ffmpeg and save.
+Use Terminal to run `mkdir -p ~/Downloads/folder_to_zip && echo data > ~/Downloads/folder_to_zip/info.txt`, then in Nautilus right-click the folder and compress it.
+Open Terminal and list hidden files in ~/Downloads with `ls -a`.
+Open GIMP, create and export ~/Downloads/adjust_source.png, reopen it, tweak the colors, and save as a new file.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/fullscreen_test.mp4`, then open VLC, load it, and enter full-screen mode.
+Open VS Code, create and save a Python file with a simple print statement.
+Use Terminal to find the total number of files in ~/Downloads with `ls | wc -l`.
+Open GIMP, create a new image, make a selection, fill it with color, and save in ~/Downloads.
+Open Mahjong and check the help menu for game rules.
+In Firefox, visit https://ubuntu.com/tutorials and bookmark a tutorial.
+Open Nautilus, create a new folder named 'Archives' in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=20 ~/Downloads/subtitle_test.mp4` and create a simple subtitle file at ~/Downloads/subtitle_test.srt, then open the video in VLC and explore the subtitle options.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=40 ~/Downloads/segment_source.mp4`, then extract a chosen segment with ffmpeg.
+Use Terminal to run `mkdir -p ~/Downloads/sample_dir && echo data > ~/Downloads/sample_dir/file.txt`, then create a backup copy of that directory with the `cp` command.
+Open Firefox, access the Wikipedia page, and check the editing history of an article.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=360:duration=3 ~/Downloads/audio_effect.wav`, then open VLC, play it, and enable audio effects.
+Open VS Code, use the terminal to run a basic command like `echo Hello`.
+Open Mahjong, change the background theme and check the new look.
+In Firefox, visit https://www.wikipedia.org/ and explore the related articles section.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=430:duration=2 ~/Downloads/shuffle1.wav` and `ffmpeg -f lavfi -i sine=frequency=510:duration=2 ~/Downloads/shuffle2.wav`, build a playlist file ~/Downloads/shuffle_playlist.m3u referencing them, then open it in VLC and shuffle the songs.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=475:duration=3 ~/Downloads/normalize_source.wav`, then normalize it with ffmpeg and save the output.
+Use Terminal to run `mkdir -p ~/Downloads/sample_archive && echo info > ~/Downloads/sample_archive/item.txt && tar -czf ~/Downloads/sample_archive.tar.gz -C ~/Downloads sample_archive`, then extract it with `tar -xzf`.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=22 ~/Downloads/slowdown.mp4`, then open VLC, play it, and set the speed to 0.75x.
+Open Mahjong, start a new game, and save the current game state.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/resolution_source.mp4`, then use ffmpeg to change its resolution and save the output in ~/Downloads.
+Open VS Code, create ~/Downloads/sample.json with some JSON content, then format the file using the built-in formatter.
+Open Mahjong, play for a few minutes, and then close it.
+Use Terminal to run `mkdir -p ~/Downloads/git_project && git init ~/Downloads/git_project`, then open that folder in VS Code and enable Git integration when prompted.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=40 ~/Downloads/split_source.mp4`, then split it into two halves with ffmpeg and save both outputs in ~/Downloads.
+In Nautilus, sort files in ~/Downloads by modification date.
+In Nautilus, create a shortcut to ~/Downloads on the Desktop.
+In Nautilus, toggle the sidebar visibility in the current window.
+In Nautilus, create a new text file named 'todo.txt' in ~/Downloads.
+Use Terminal to run `echo sample > ~/Downloads/example.pdf`, then open Nautilus and search for all files ending with .pdf in ~/Downloads.
+Open Nautilus, and change the view to 'Icon' mode for better file visibility.
+Use Terminal to run `echo note > ~/Downloads/permission_sample.txt`, then in Nautilus change that file's permissions to read-only via right-click options.
+Use Terminal to run `echo old > ~/Downloads/oldest_item.txt`, then in Nautilus sort by modification date and move the oldest item to the Trash.
+Open GIMP, start a new project with a specified resolution and save it.
+Use Terminal to run `truncate -s 1K ~/Downloads/small.bin` and `truncate -s 3K ~/Downloads/large.bin`, then in Nautilus sort files by size and view the largest ones.
+Open GIMP, create a new image, add a layer, fill it with a gradient, and save the project.
+Open Terminal and find the current system uptime with the `uptime` command.
+Open Nautilus, create a text document in ~/Downloads, and write a short note.
+Open GIMP, create and export ~/Downloads/frame_base.png, reopen it, add a frame effect, and export the result as a JPEG.
+Open Firefox and read about Ubuntu on https://ubuntu.com/tutorials.
+Use Terminal to run `echo info > ~/Downloads/properties_sample.txt`, then in Nautilus view the file's properties to check its size and type.
+In Terminal, create a file with a timestamp in the filename in ~/Downloads.
+Open Firefox, access https://example.com/ and print the page.
+Use Terminal to run `mkdir -p ~/Downloads/frequent_folder`, then in Nautilus create a link to that folder within ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=500:duration=3 ~/Downloads/info_tone.wav`, then open it in VLC and view the media information while it plays.
+In GIMP, create a new image and fill it with a gradient; save it to ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=12 ~/Downloads/find_sample.mp4`, then search for .mp4 files in ~/Downloads with `find . -name "*.mp4"`.
+Open Firefox, navigate to https://www.wikipedia.org/ and change the user interface language.
+Use Terminal to run `echo archive > ~/Downloads/old_file.txt` and `mkdir -p ~/Downloads/BackupFolder`, then move the file into the backup folder using Nautilus.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=620:duration=3 ~/Downloads/effect_tone.wav`, then load it in VLC and save a custom audio effect preset.
+Open GIMP, create a new image, assign it the sRGB color profile, make an edit, and save it in ~/Downloads.
+In Terminal, check the current date and time with the `date` command.
+Use Terminal to create a new directory called 'Scripts' in ~/Downloads.
+Open GIMP, create a new image of size 800x600 and fill it with a solid color.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=580:duration=3 ~/Downloads/loop_tone.wav`, then open it in VLC and set playback to loop.
+In VS Code, create a new file called 'todo.md' on Desktop and add a checklist.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; browse the first three tutorials.
+Use Terminal to run `echo task > ~/Downloads/todo.txt` and `mkdir -p ~/Downloads/Projects`, then in Nautilus move todo.txt into the Projects folder.
+Open Terminal and run `ls -A ~/Downloads > list.txt` to save filenames to a text file.
+Open GIMP, create and export ~/Downloads/blur_base.png, reopen it, apply a Gaussian blur, and save.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=540:duration=3 ~/Downloads/volume_tone.wav`, then play it in VLC and increase the audio output by roughly 10%.
+Open Firefox and access https://www.wikipedia.org/ ; translate the page to French.
+Use the Archive tool to compress ~/Downloads into a tarball named downloads.tar.
+Open Nautilus and create a new text file named 'notes.txt' in ~/Downloads.
+Open VS Code, write a simple "Hello World" program in a new file and save.
+Use Terminal to run `echo temp > ~/Downloads/sample.tmp`, then find and delete all `.tmp` files in ~/Downloads.
+Open GIMP, create and export ~/Downloads/resize_base.png, reopen it, resize to 400x300, and save.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=440:duration=2 ~/Downloads/list1.wav` and `ffmpeg -f lavfi -i sine=frequency=520:duration=2 ~/Downloads/list2.wav`, create ~/Downloads/playlist_sample.m3u listing them, then load it in VLC and shuffle the tracks.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=1280x720:duration=35 ~/Downloads/convert_source.mp4`, then convert it to a lower resolution and save the result in ~/Downloads.
+In Nautilus, sort files in ~/Downloads by modification date and view the newest.
+Open VS Code, create Desktop/notes.txt with a few lines if it doesn't exist, add two more lines, and save.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=25 ~/Downloads/screenshot_source.mp4`, then load it in VLC and capture a frame snapshot.
+Open GIMP, draw a rectangle, and export the canvas as a PNG image.
+Open Terminal and display the current date and time using the `date` command.
+Navigate to ~/Downloads in Nautilus and change view to list mode.
+Open Firefox and go to https://ubuntu.com/tutorials ; bookmark the page.
+Use Terminal to run `echo sample > ~/Desktop/backup_source.txt && zip -j ~/Desktop/backup.zip ~/Desktop/backup_source.txt`, then copy backup.zip from Desktop to ~/Downloads via Nautilus.
+Use Terminal to run `echo sample > ~/Downloads/backup_extract_source.txt && zip -j ~/Downloads/backup.zip ~/Downloads/backup_extract_source.txt`, then use the Archive tool to extract backup.zip in ~/Downloads.
+Open GIMP, create and export ~/Downloads/text_base.png, reopen it, add text, and save.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/pause_source.mp4`, then play it in VLC and pause after 10 seconds.
+Open Terminal and count the number of files in ~/Downloads using `wc -l`.
+Open Nautilus and create a new folder called 'Images' in ~/Downloads.
+Open Firefox and visit https://www.wikipedia.org/ ; switch to Spanish.
+Open VS Code and change the theme of the editor from the settings.
+Open GIMP, create and export ~/Downloads/rotate_clockwise.png, reopen it, rotate 90 degrees clockwise, and save.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=45 ~/Downloads/trim_target.mp4`, then trim the first 30 seconds with ffmpeg and save the result.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; check the first tutorial.
+Use Terminal to run `echo archive > ~/Downloads/old_notes.txt`, then delete it in Nautilus.
+Open GIMP, create a new image, and draw a simple shape on it.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=28 ~/Downloads/length_check.mp4`, then open it in VLC and view the playback length.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=cyan:s=200x200:d=1 -frames:v 1 ~/Downloads/search1.jpg`, then search for all `.jpg` files in ~/Downloads.
+Open Firefox and go to https://example.com ; refresh the page.
+Open GIMP, create and export ~/Downloads/export_base.png, reopen it, and export it to another format such as JPEG.
+Open VS Code, create a new file called 'script.py' and write a simple print statement.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=26 ~/Downloads/brightness_test.mp4`, then open it in VLC and adjust the brightness.
+Launch Terminal and run `df -h` to check disk space usage.
+Open Firefox and visit https://www.wikipedia.org/ ; explore the featured article.
+Use Terminal to run `echo summary > ~/Downloads/reports.txt`, then use the Archive tool to create a gzip file from it.
+Open GIMP, create and export ~/Downloads/sharpen_base.png, reopen it, apply a sharpen filter, and save.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=32 ~/Downloads/position_check.mp4`, then play it in VLC and note the current playback position.
+Use Terminal to run `printf 'line\n%.0s' {1..20} > ~/Downloads/tail_sample.txt`, then display the last 10 lines with `tail ~/Downloads/tail_sample.txt`.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; choose a tutorial to read.
+Open GIMP, create and export ~/Downloads/selection_base.png, reopen it, select an area, copy it, and save the project.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=470:duration=2 ~/Downloads/firstlist1.wav` and `ffmpeg -f lavfi -i sine=frequency=530:duration=2 ~/Downloads/firstlist2.wav`, create ~/Downloads/first_playlist.m3u referencing them, then load the playlist in VLC and play the first track.
+In Terminal, navigate to ~/Downloads and list all directories.
+Open Firefox and check the page source of https://example.com.
+Open GIMP, create a new canvas, draw a line, change its color, and save the image in ~/Downloads.
+Open VS Code, create Desktop/todo.md with a checklist if needed, then mark one item as completed and save.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=24 ~/Downloads/sub_settings.mp4` and create ~/Downloads/sub_settings.srt with a simple cue, then adjust subtitle settings in VLC while playing.
+Use Terminal to run `echo first > ~/Downloads/zip_a.txt` and `echo second > ~/Downloads/zip_b.txt`, then compress them into a single zip file with the Archive tool.
+In Terminal, create a new file named 'temp.txt' in ~/Downloads using `touch`.
+Open GIMP, create a new canvas and fill it with a gradient.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; summarize the content of a tutorial.
+Open VS Code, create a new folder named 'CodeSnippets' in ~/Downloads.
+In Terminal, display the current directory with the `pwd` command.
+Open GIMP, create and export ~/Downloads/crop_base.png, reopen it, crop a region, and save.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=27 ~/Downloads/codec_check.mp4`, then open it in VLC and note the codec information.
+Open Firefox, open the Help menu, choose About Firefox, and then close the dialog.
+Open VS Code and change the font size of the editor.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=500:duration=3 ~/Downloads/speed_test.wav`, then open it in VLC and adjust the playback speed.
+Use Terminal to run `echo 'quarterly report' > ~/Downloads/report_notes.txt`, then search for files containing the word 'report' in ~/Downloads.
+Open VS Code, create ~/Downloads/sample.py with a small function, add a descriptive comment to the code, and save.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=440:duration=3 ~/Downloads/continuous.wav`, then open it in VLC and enable continuous playback.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=40 ~/Downloads/segment_task.mp4`, then extract a short segment from it with ffmpeg and save the clip in ~/Downloads.
+In Terminal, create a new directory called 'Images' in ~/Downloads.
+Use Terminal to run `mkdir -p ~/Downloads/project_files && echo sample > ~/Downloads/project_files/info.txt`, then compress 'project_files' into a zip with the Archive tool.
+Open VS Code, create a file named 'script.py' in ~/Downloads with a simple print statement, then run it to see the output.
+Use Terminal to run `truncate -s 2M ~/Downloads/large_sample.bin`, then list the files in ~/Downloads that are larger than 1MB.
+Use Terminal to run `echo data > ~/Downloads/source_file.txt`, then copy it within ~/Downloads using the `cp` command.
+Use Terminal to run `zip -j ~/Downloads/project.zip ~/Downloads/source_file.txt`, then in Nautilus duplicate project.zip and rename the copy.
+Open VS Code and change the theme back to the default setting.
+Use Terminal to run `echo note contents > ~/Downloads/notes.txt`, then display the file with `cat ~/Downloads/notes.txt`.
+Use Terminal to run `zip -j ~/Downloads/backup.zip ~/Downloads/notes.txt`, then move backup.zip to the Trash using Nautilus.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=35 ~/Downloads/convert_me.mp4`, then convert it to another format (for example, MKV) with ffmpeg and save it in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=orange:s=200x200:d=1 -frames:v 1 ~/Downloads/snippet_image.png`, then in VS Code add that image into the 'CodeSnippets' folder.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=white:s=200x200:d=1 -frames:v 1 ~/Downloads/circle.png`, then copy circle.png into the 'Images' folder with Nautilus.
+In Nautilus, sort the contents of ~/Downloads by size.
+Use Terminal to run `echo details > ~/Downloads/properties_sample.txt`, then view its properties in Nautilus.
+Use Terminal to run `echo summary > ~/Downloads/report.docx` and `mkdir -p ~/Downloads/Projects`, then move report.docx into Projects using Nautilus.
+Open Nautilus and view hidden files in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=navy:s=200x200:d=1 -frames:v 1 ~/Downloads/picture_source.png`, then copy and paste that image within Nautilus.
+In Nautilus, create a new folder called 'Videos' in ~/Downloads.
+Open GIMP and draw a circle, then export it as a JPEG.
+Use Terminal to run `echo task > ~/Downloads/todo.txt`, then search for todo.txt in Nautilus.
+Open Firefox and navigate to https://example.com ; take a screenshot of the page.
+Open GIMP, create a new image, add an extra layer, draw additional designs on it, and save.
+Open Nautilus, and view the last modified file in ~/Downloads.
+Open Firefox and visit https://www.wikipedia.org/ ; explore the table of contents.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=gray:s=300x300:d=1 -frames:v 1 ~/Downloads/border_base.png`, then open it in GIMP, add a border, and save.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/fullscreen_clip.mp4`, then open it in VLC and enter fullscreen mode.
+Open Firefox and browse to https://ubuntu.com/tutorials ; note the topics covered.
+Use Terminal to run `echo sample > ~/Downloads/sample.docx`, then delete it via Nautilus.
+Open GIMP and use the paintbrush tool to draw on a new canvas.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=480:duration=3 ~/Downloads/audio_settings.wav`, then play it in VLC and review the audio settings.
+Open Firefox and go to https://example.com ; check the footer of the page.
+Use Terminal to run `echo slides > ~/Downloads/presentation.pptx`, then copy presentation.pptx from ~/Downloads to the Desktop with Nautilus.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=lightblue:s=400x300:d=1 -frames:v 1 ~/Downloads/clone_base.png`, then open it in GIMP, use the clone tool, and save.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=430:duration=2 ~/Downloads/check1.wav` and `ffmpeg -f lavfi -i sine=frequency=510:duration=2 ~/Downloads/check2.wav`, create ~/Downloads/check_playlist.m3u referencing them, then load it in VLC and check for missing entries.
+Open Firefox and navigate to https://www.wikipedia.org/ ; delve into a featured topic.
+In Nautilus, create a text document named 'list.txt' and open it.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=teal:s=400x400:d=1 -frames:v 1 ~/Downloads/crop_sample.png`, then open it in GIMP and use the crop tool before saving.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=45 ~/Downloads/subtitle_color.mp4` and create a simple subtitle file at ~/Downloads/subtitle_color.srt, then load the video in VLC and adjust subtitle size and color.
+Open Firefox and visit https://ubuntu.com/tutorials; use Print to PDF and save it to ~/Downloads/page.pdf.
+Open GIMP, draw a polygon and fill it with a color before saving.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=520:duration=3 ~/Downloads/visualizer_audio.wav`, then play it in VLC and inspect the audio visualizer settings.
+Open Firefox and navigate to https://example.com ; check the page title.
+Open GIMP, create a new project and set the dimensions to 1024x768.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=50 ~/Downloads/bookmark_clip.mp4`, then load it in VLC and set a bookmark at the desired position.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; write a brief summary of a tutorial.
+In Nautilus, sort files in ~/Downloads by type and view the results.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=beige:s=500x350:d=1 -frames:v 1 ~/Downloads/annotate_base.png`, then open it in GIMP, add a new layer for annotations, and save.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=460:duration=2 ~/Downloads/play1.wav` and `ffmpeg -f lavfi -i sine=frequency=520:duration=2 ~/Downloads/play2.wav`, create ~/Downloads/short_playlist.m3u referencing them, then play it in VLC briefly before stopping.
+Launch Firefox, go to https://example.com, and save the page as a PDF in ~/Downloads.
+Open Visual Studio Code, create a file "tasks.md" in ~/Downloads, and write "Task List" in it.
+Use the Terminal to navigate to ~/Downloads and create a new directory called "TempFiles."
+Open GIMP, create a new image with 800x600 dimensions and save it as "new_image.png" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=28 ~/Downloads/toggle_fullscreen.mp4`, then open it in VLC and toggle fullscreen.
+Open Firefox, visit https://ubuntu.com/tutorials, and bookmark the "Getting Started" tutorial.
+In Nautilus, move the file "tasks.md" from ~/Downloads to the "Projects" folder.
+Open Visual Studio Code, write "Hello, World!" in a new file, and save it as "hello.txt" in ~/Downloads.
+Use Terminal to run `echo zipped > ~/Downloads/archive_source.txt && zip -j ~/Downloads/sample_archive.zip ~/Downloads/archive_source.txt`, then extract it into ~/Downloads/ExtractedFiles.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=purple:s=600x400:d=1 -frames:v 1 ~/Downloads/resample_base.png`, then resize it in GIMP to 50% and save as resized_image.png.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=610:duration=3 ~/Downloads/solo_track.wav`, then load it in VLC and save it as a single-track playlist.
+Open Firefox, navigate to https://www.wikipedia.org/, and switch to Spanish language.
+In Nautilus, create a compressed tarball of ~/Downloads and save it as "downloads.tar.gz" on the Desktop.
+Open Visual Studio Code, create a new JavaScript file "script.js" in ~/Downloads, and write a simple console log.
+Use the Terminal to count the number of files in ~/Downloads and save the output to "file_count.txt" on the Desktop.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=36 ~/Downloads/loop_video.mp4`, then play it in VLC, enable looping, and close the player.
+Open Firefox and visit https://ubuntu.com/tutorials; read the "Install Ubuntu Desktop" section.
+Use Terminal to run `echo temporary > ~/Downloads/temp.txt`, then delete it via Nautilus.
+Launch Visual Studio Code, open or create "hello.txt" in ~/Downloads, add another line of text, and save.
+Use Terminal to find all images in ~/Downloads and list their names in "image_list.txt" on Desktop.
+Open GIMP, create a simple logo using shapes and save it as "logo.png" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=33 ~/Downloads/screenshot_clip.mp4`, then load it in VLC and capture a frame to ~/Downloads.
+Open Firefox, navigate to https://www.wikipedia.org/, and read the "History" section.
+Use Terminal to run `mkdir -p ~/Downloads/Projects && echo info > ~/Downloads/Projects/readme.txt`, then copy the Projects folder to the Desktop using Nautilus.
+Open Visual Studio Code, create a "README.md" in ~/Downloads, and write a project description.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=25 ~/Downloads/trim_source.mp4`, then trim the first 10 seconds into ~/Downloads/trimmed_video.mp4.
+Use Terminal to run `echo desk > ~/Desktop/backup_item.txt && zip -j ~/Desktop/backup.zip ~/Desktop/backup_item.txt`, then rename backup.zip to archive_backup.zip on the Desktop.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=olive:s=500x400:d=1 -frames:v 1 ~/Downloads/filter_base.png`, then apply a filter in GIMP and export it as filtered_image.jpg.
+In Terminal, check the disk usage of ~/Downloads and output the results to "disk_usage.txt" on Desktop.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=300:duration=5 ~/Downloads/podcast_sample.wav`, then play it in VLC and set the volume to about 80%.
+Open Firefox and go to https://example.com; take a screenshot of the page and save it to ~/Downloads.
+In Nautilus, create a new text file named "notes.txt" in ~/Downloads and open it for editing.
+Launch GIMP, create a new file, and draw a simple shape before saving it as "shape.png" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=20 ~/Downloads/list_clip1.mp4` and `ffmpeg -f lavfi -i testsrc=size=640x360:duration=18 ~/Downloads/list_clip2.mp4`, then build a playlist in VLC and save it as my_playlist.m3u.
+Open Firefox, visit https://ubuntu.com/tutorials, and read about "Configure Networking."
+Open Visual Studio Code, create a new Python file "script.py" in ~/Downloads, and write a print statement.
+Use Terminal to find and display the last 5 modified files in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=peachpuff:s=450x320:d=1 -frames:v 1 ~/Downloads/border_photo.png`, then add a border in GIMP and export as bordered_photo.jpg.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=38 ~/Downloads/sub_track.mp4` and create ~/Downloads/sub_track.srt, then play the video in VLC and switch to that subtitle track.
+Open Firefox and access https://www.wikipedia.org/; look up "Linux" and save it as a PDF.
+Open Visual Studio Code, edit the "tasks.md" file to add new tasks, and save your changes.
+Use Terminal to run `echo confidential > ~/Downloads/important.txt`, then compress it into important_file.zip.
+Open GIMP, create a new project, and add text to the canvas before saving it as "text_image.png."
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=250:duration=4 ~/Downloads/bass_emphasis.wav`, then open it in VLC, boost the bass via the equalizer, and close the window.
+Open Firefox and go to https://ubuntu.com/tutorials; bookmark the "Secure Your Ubuntu Server" tutorial.
+In Nautilus, create a new folder named 'Archived_Projects' in ~/Downloads and copy the file 'tasks.md' from the 'Projects' folder into it.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=480:duration=6 ~/Downloads/split_audio.wav`, then split it into two parts with ffmpeg and save both files in ~/Downloads.
+Open Visual Studio Code and create a new Markdown file "guide.md" in ~/Downloads.
+Open GIMP, draw a circle, and save the image as "circle.png" in ~/Downloads.
+In VLC, play a video file and take a snapshot of a specific scene.
+Open Firefox, visit https://www.wikipedia.org/, and explore the "Featured Article."
+Open Visual Studio Code and start a new project for a web app in ~/Downloads.
+Use Terminal to create a new file "log.txt" in ~/Downloads and add a timestamp to it.
+Open GIMP, load a graphic, and convert it to grayscale before exporting to ~/Downloads.
+In VLC, open a video, change its aspect ratio, and then close the player.
+Open Firefox and visit https://ubuntu.com/tutorials; use Print to PDF and save it to ~/Downloads/page.pdf.
+Open Visual Studio Code, create a "style.css" file in ~/Downloads, and write a simple CSS rule.
+Use ffmpeg to add a watermark to a video from ~/Downloads and save it as "watermarked_video.mp4."
+Open GIMP, apply a Gaussian blur to an image and save it as "blurred_image.png" in Downloads.
+In VLC, load a video and create a snapshot at the 1-minute mark.
+Open Firefox, visit https://www.wikipedia.org/, and read about "Open Source Software."
+Open Visual Studio Code, create a new HTML file "index.html" in ~/Downloads, and add basic HTML structure.
+Use Terminal to check the available disk space and save the output to "disk_space.txt" on Desktop.
+Open GIMP, load a photo, and crop it before saving the edited version back to ~/Downloads.
+In VLC, load a video file, set the playback speed to 0.5x, and then close the player.
+Open Firefox and navigate to https://example.com; take a screenshot of the first section and save it.
+Use Terminal to run `mkdir -p ~/Downloads/ArchiveCopies && echo deskcopy > ~/Desktop/archive_source.txt && zip -j ~/Desktop/archive_backup.zip ~/Desktop/archive_source.txt`, then copy archive_backup.zip from Desktop into the ArchiveCopies folder via Nautilus.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=550:duration=4 ~/Downloads/bitrate_source.wav`, then convert it with a different audio bitrate and save as new_audio.mp3.
+Open GIMP, create a new file and add some text before saving it as "text_file.png" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/brightness_clip.mp4`, then play it in VLC and adjust the brightness.
+Open Firefox, visit https://ubuntu.com/tutorials, and read about "Use the Ubuntu Command Line."
+Open Visual Studio Code, edit "style.css" to change the background color to blue and save it.
+Use Terminal to create a symbolic link to a file in ~/Downloads on the Desktop.
+Open GIMP, create a new project, draw a rectangle, and save it as "rectangle.png" in ~/Downloads.
+In VLC, open a video and enable subtitles before resuming playback.
+Open Firefox, go to https://www.wikipedia.org/, and read about "Programming Languages."
+Open Visual Studio Code, create "script.js" in ~/Downloads, and add a basic function to log a message.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=40 ~/Downloads/end_trim_source.mp4`, then trim the last 5 seconds with ffmpeg into trimmed_end.mp4.
+Open GIMP, load a graphic, add a border and save it as "bordered_graphic.png" in ~/Downloads.
+In VLC, play a video and toggle the subtitles on and off.
+Open Firefox, visit https://example.com, and save the page source as "source.html" in ~/Downloads.
+In Nautilus, rename "projects_backup.zip" to "backup_projects.zip" in ~/Downloads.
+Open Visual Studio Code, write a brief note in "notes.txt" and save it.
+Use Terminal to display the last 10 lines of a log file in ~/Downloads and save the output to "log_output.txt."
+Open GIMP, create a new image, draw a triangle, and save it as "triangle.png" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=700:duration=3 ~/Downloads/treble_audio.wav`, then open it in VLC, adjust the treble, and close the player.
+Open Firefox, navigate to https://ubuntu.com/tutorials, and bookmark "Learn the Basics."
+In Nautilus, move 'tasks.md' from 'Archived_Projects' back to ~/Downloads.
+Open Visual Studio Code, create "index.js" in ~/Downloads, and write a simple console log.
+Open GIMP, draw a polygon, and save it as "polygon.png" in ~/Downloads.
+In VLC, open a video and create a new playlist named "Favorites."
+Open Firefox, go to https://www.wikipedia.org/, and search for "Artificial Intelligence."
+Use Terminal to run `find ~/Downloads -maxdepth 1 -name '*.txt' -exec touch {} \;` if needed, then archive all .txt files into docs_archive.tar.gz.
+Open GIMP, load a graphic, and save it with a different file name as "graphic_v2.png" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=360:duration=3 ~/Downloads/audio_device.wav`, then play it in VLC and switch the audio output device.
+Open Firefox, navigate to https://ubuntu.com/tutorials, and read about "Understanding File Systems."
+Open Visual Studio Code, create "style.scss" in ~/Downloads, and write some SCSS code.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=34 ~/Downloads/volume_adjust.mp4`, then increase its volume with ffmpeg and save as louder_video.mp4.
+In VLC, play a video in slow motion, and then stop playback.
+In Nautilus, create a new folder named 'DocsArchive' in ~/Downloads and move 'docs_archive.tar.gz' into it.
+Open Visual Studio Code, create a "script.py" in ~/Downloads, and implement a simple loop.
+Use Terminal to find the total size of files in ~/Downloads and output it to "total_size.txt" on Desktop.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=540:duration=3 ~/Downloads/speed_setting.wav`, then play it in VLC, change the speed, and note the chosen multiplier.
+Open Visual Studio Code and create a new text file "log.txt" in ~/Downloads, then log a message.
+Use ffmpeg to extract the first 5 minutes from a video in ~/Downloads and save it as "first_5_minutes.mp4."
+Open GIMP, create a new image, draw a star, and save it as "star_image.png" in ~/Downloads.
+In VLC, create a video playlist with three files and save it as "my_videos.m3u" in ~/Downloads.
+Open Visual Studio Code, create "calculate.py" in ~/Downloads, and write a function to add two numbers.
+Use Terminal to rename a file in ~/Downloads from "old_file.txt" to "new_file.txt."
+Open Visual Studio Code, create "app.js" in ~/Downloads, and write a simple function to display a greeting.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=50 ~/Downloads/compress_source.mp4`, then compress it with ffmpeg and save as compressed_video.mp4.
+Use Terminal to display the contents of a file in ~/Downloads named "notes.txt" and save the output to "output_notes.txt" on Desktop.
+In Nautilus, create a new folder named 'Archive' in ~/Downloads and move 'archive_backup.zip' from 'ArchiveCopies' into it.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=20 ~/Downloads/join1.mp4` and `ffmpeg -f lavfi -i testsrc=size=640x360:duration=22 ~/Downloads/join2.mp4`, then join them into joined_video.mp4.
+Use Terminal to display the current date and save it to "current_date.txt" on Desktop.
+Use ffmpeg to convert an audio file format from WAV to MP3 in ~/Downloads and save it as "audio.mp3."
+In Nautilus, move 'docs_archive.tar.gz' from the 'DocsArchive' folder into 'Archive'.
+Use Terminal to view the last 10 lines of a specific log file in ~/Downloads and save to "last_lines.txt" on Desktop.
+In Nautilus, create a subfolder named 'Backups' inside 'Archive' and move both 'archive_backup.zip' and 'docs_archive.tar.gz' into it.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=310:duration=620 ~/Downloads/long_audio.wav`, then split it into 5-minute segments with ffmpeg and save them in ~/Downloads.
+In Nautilus, empty the trash to free up space.
+Use Terminal to run `mkdir -p ~/Downloads/PDFs && echo sample > ~/Downloads/example.pdf`, then search for PDFs in Nautilus and move them into the PDFs folder.
+Use Terminal to run `mkdir -p ~/Downloads/Projects && echo info > ~/Downloads/Projects/readme.txt`, then duplicate the Projects folder within Nautilus.
+Use Terminal to run `mkdir -p ~/Downloads/AudioFiles && ffmpeg -f lavfi -i sine=frequency=420:duration=2 ~/Downloads/audio1.wav`, `ffmpeg -f lavfi -i sine=frequency=460:duration=2 ~/Downloads/audio2.wav`, then move all audio files to AudioFiles via Nautilus.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=skyblue:s=200x200:d=1 -frames:v 1 ~/Downloads/photo1.png`, then create an Images folder in Nautilus and move the image files into it.
+Use Terminal to run `echo archive > ~/Downloads/old_document.txt`, then delete it in Nautilus.
+Use Terminal to run `touch ~/Downloads/temp.txt`, then confirm in Nautilus that the empty file exists.
+Use Terminal to run `echo summary > ~/Downloads/report.docx`, then create a Documents folder in Nautilus and move report.docx there.
+Use Terminal to run `echo note > ~/Downloads/notes.txt`, then copy it to Desktop via Nautilus and remove the original.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=sienna:s=400x300:d=1 -frames:v 1 ~/Downloads/sepia_base.png`, then apply a sepia effect in GIMP and save as sepia_image.png.
+Open Firefox, visit https://www.wikipedia.org/, and explore "Web Development."
+Open GIMP, start a 400x400 canvas, draw a simple icon, and export it as icon.png in ~/Downloads.
+Open Firefox, navigate to https://example.com, and save the page as "example_page.html" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/holiday.mp4` and `mkdir -p ~/Downloads/Videos`, then move holiday.mp4 into Videos via Nautilus.
+Open Firefox, visit https://ubuntu.com/tutorials, and review the "Get Help" section.
+Use Terminal to run `echo '#!/bin/bash' > ~/Downloads/backup.sh`, then create a Scripts folder in Nautilus and move backup.sh into it.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=lightpink:s=800x600:d=1 -frames:v 1 ~/Downloads/vignette_base.png`, then open it in GIMP, apply a vignette effect, and save as vignette_photo.jpg.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=40 ~/Downloads/thirty_second.mp4`, then open it in VLC and take a screenshot at 30 seconds.
+Open Firefox, navigate to https://www.wikipedia.org/, and read about "Databases."
+Use Terminal to run `mkdir -p ~/Downloads/TempFiles && echo tmp > ~/Downloads/TempFiles/file.tmp`, then delete TempFiles in Nautilus.
+Open GIMP, create a new document, draw a flower, and save it as "flower.png" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=480:duration=4 ~/Downloads/shuffle_sample.wav`, then open it in VLC, enable shuffle mode, and close the player.
+Open Firefox and visit https://ubuntu.com/tutorials; look at the "Security" tutorial.
+In Nautilus, create a folder named 'Images' in ~/Downloads if it doesn't exist, then move 'icon.png' from ~/Downloads into it.
+Open Visual Studio Code, create "data.json" in ~/Downloads, and add an example JSON object.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=purple:s=500x350:d=1 -frames:v 1 ~/Downloads/graphic_base.png`, then open it in GIMP and export as exported_graphic.gif.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=25 ~/Downloads/equalizer_video.mp4`, then open it in VLC, adjust the bass slider via the equalizer panel, and close the window.
+Open Firefox, go to https://www.wikipedia.org/, and learn about "Cloud Computing."
+Open Visual Studio Code, create "style.css" in ~/Downloads, and apply a background color to a class.
+Open GIMP, create a new canvas, add a gradient background, and save it as "gradient_background.png" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=520:duration=4 ~/Downloads/bass_sample.wav`, then play it in VLC, adjust the bass slider, and close the equalizer window.
+Open Firefox and explore https://example.com, saving a specific section as a PDF in ~/Downloads.
+Use Terminal to run `echo temp > ~/Downloads/temp.tmp`, then delete temp.tmp in Nautilus.
+Open Visual Studio Code, create a simple HTML file "example.html" in ~/Downloads, and write a basic structure.
+Open GIMP, create a new image and draw a line, then save it as "line_image.png" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=600:duration=5 ~/Downloads/speed_sample.wav`, then open it in VLC, set playback to 1.5x, and pause.
+Open Firefox, navigate to https://ubuntu.com/tutorials, and read about "Shell Scripting."
+Use Terminal to run `echo archived > ~/Downloads/notes.txt` and `mkdir -p ~/Downloads/OldFiles`, then move notes.txt into OldFiles with Nautilus.
+Open Visual Studio Code, create "script.js" in ~/Downloads, and add an alert function.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=lightgray:s=500x300:d=1 -frames:v 1 ~/Downloads/text_layer_base.png`, then add text in GIMP and save as text_added_image.png.
+Open Firefox, navigate to https://www.wikipedia.org/, and read about "Software Development."
+Open GIMP, create a new project, add a shape, and save it as "new_shape.png" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/volume_video.mp4`, then lower the volume in VLC while it plays and close the player.
+Open Visual Studio Code, create 'styles.css' in ~/Downloads, and add CSS to style a button with padding and background color.
+Open GIMP, create a new 400x400 canvas, draw two overlapping shapes, and export it as 'overlap.png' to ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=35 ~/Downloads/speed_video.mp4`, then play it in VLC, set playback speed to 1.5x, and confirm the displayed value.
+Open Firefox, navigate to https://ubuntu.com/tutorials, and read about "Networking Basics."
+Use Terminal to run `mkdir -p ~/Downloads/Images && ffmpeg -f lavfi -i color=c=red:s=200x200:d=1 -frames:v 1 ~/Downloads/Images/sample_image.png`, then copy the Images folder within Nautilus to create the backup.
+Open Visual Studio Code, create 'new_file.txt' in ~/Downloads, and type a short note before saving.
+Open Firefox and navigate to https://example.com ; scroll down and take a screenshot.
+In Nautilus, create a new folder named "Projects" in ~/Downloads.
+Open Visual Studio Code, create a file "todo.txt" in ~/Downloads, and write two tasks.
+Use Terminal to change directory to ~/Downloads and create a directory named "Archives".
+Use Terminal to run `ffmpeg -f lavfi -i color=c=khaki:s=500x400:d=1 -frames:v 1 ~/Downloads/filter_source.png`, then open it in GIMP, apply a filter, and save as a new file.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=20 ~/Downloads/play_pause.mp4`, then play it in VLC and pause after 10 seconds.
+Open Firefox and visit https://ubuntu.com/tutorials ; check the tutorial categories.
+Arrange the Nautilus window and the VLC window side-by-side on the desktop, then minimize both windows so only the desktop is visible.
+Use Terminal to run `echo sample zip > ~/Downloads/sample.txt && zip -j ~/Downloads/sample.zip ~/Downloads/sample.txt`, then unzip sample.zip into an 'Unzipped' folder with Nautilus.
+Open Visual Studio Code, create a new file "notes.md" in ~/Downloads, and add a bullet point.
+Use Terminal to display the current date and time, then save it to ~/Downloads/date.txt.
+Open GIMP, create a new image, fill with color, and export to ~/Downloads/color_image.png.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=430:duration=3 ~/Downloads/track1.wav`, `ffmpeg -f lavfi -i sine=frequency=470:duration=3 ~/Downloads/track2.wav`, and `ffmpeg -f lavfi -i sine=frequency=510:duration=3 ~/Downloads/track3.wav`, then load them in VLC and build a playlist.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=60 ~/Downloads/trim_source_full.mp4`, then trim it to 30 seconds as ~/Downloads/trimmed.mp4.
+In Nautilus, create a folder named 'TextFiles' in ~/Downloads if needed, then move 'notes.txt' from ~/Downloads into it.
+Open Visual Studio Code, create a file "script.js" in ~/Downloads, and write a simple console log.
+Use Terminal to check disk usage in your home directory and save the output to ~/Downloads/disk_usage.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=beige:s=450x300:d=1 -frames:v 1 ~/Downloads/text_image_base.png`, then add text in GIMP and export as text_image.png.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=390:duration=4 ~/Downloads/equalizer_audio.wav`, then adjust the equalizer in VLC for richer sound and close the player.
+Open Firefox, navigate to https://ubuntu.com/tutorials ; bookmark the "Getting Started" tutorial.
+Use Terminal to run `echo old > ~/Downloads/old_report.txt`, then delete old_report.txt in Nautilus.
+Open Visual Studio Code and create a Markdown file "summary.md" in ~/Downloads with a title.
+Use Terminal to find the number of files in ~/Downloads and output to ~/Downloads/file_count.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=plum:s=500x350:d=1 -frames:v 1 ~/Downloads/blur_source.png`, then blur it in GIMP and save with a new name.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=40 -f lavfi -i sine=frequency=440:duration=40 -f lavfi -i sine=frequency=660:duration=40 -map 0:v -map 1:a -map 2:a -shortest -c:v libx264 -c:a aac ~/Downloads/multi_audio.mp4`, then open it in VLC and switch between the audio tracks.
+Open Firefox and go to https://www.wikipedia.org/ ; change the language to Spanish and check the layout.
+In Nautilus, create a compressed tar archive of ~/Downloads and save it to Desktop/archive.tar.
+Open Visual Studio Code, create a new file "style.css" in ~/Downloads and write a CSS rule.
+Use Terminal to count the lines in a text file in ~/Downloads and save the output to ~/Downloads/line_count.txt.
+Open GIMP, load a photo, resize it, and export it to ~/Downloads/resized_photo.jpg.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=red:s=320x240:d=1 -frames:v 1 ~/Downloads/slides1.png` and `ffmpeg -f lavfi -i color=c=green:s=320x240:d=1 -frames:v 1 ~/Downloads/slides2.png`, then combine the images into slideshow.mp4 with ffmpeg.
+Open Firefox and visit https://ubuntu.com/tutorials ; look at the "Learn Ubuntu" section.
+Use Terminal to run `echo backup > ~/Downloads/notes.txt` and `mkdir -p ~/Downloads/Backup`, then copy notes.txt into the Backup folder using Nautilus.
+Open Visual Studio Code and create a file "readme.txt" in ~/Downloads with project details.
+Use Terminal to search for .png files in ~/Downloads and list them in ~/Downloads/png_files.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=lavender:s=400x300:d=1 -frames:v 1 ~/Downloads/border_source.png`, then add a border in GIMP and save the new file.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=500:duration=3 ~/Downloads/playlist_track1.wav` and `ffmpeg -f lavfi -i sine=frequency=560:duration=3 ~/Downloads/playlist_track2.wav`, write them into ~/Downloads/simple_playlist.m3u, then load the playlist in VLC and start playback.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=25 ~/Downloads/thumbnail_source.mp4`, then capture its first frame to thumbnail.png with ffmpeg.
+Open Firefox and navigate to https://www.wikipedia.org/ ; select a featured article and read it.
+Open Visual Studio Code, create a file "function.py" in ~/Downloads and write a simple print statement.
+Use Terminal to check the current directory and save the output to ~/Downloads/current_directory.txt.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=70 ~/Downloads/bookmark_video.mp4`, then load it in VLC and add a bookmark at 1 minute.
+Open Firefox and go to https://ubuntu.com/tutorials ; check the "Community" section.
+Use Terminal to run `echo zipped > ~/Downloads/file.txt && zip -j ~/Downloads/file.zip ~/Downloads/file.txt`, then move file.zip to the Trash in Nautilus.
+Open Visual Studio Code, create a file "index.html" in ~/Downloads and write a simple HTML structure.
+Use Terminal to list all hidden files in ~/Downloads and save the output to ~/Downloads/hidden_files.txt.
+Open GIMP, create a new project, draw a shape, and export it to ~/Downloads/shape_image.png.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=320:duration=6 ~/Downloads/podcast_audio.wav`, then play it in VLC and set the volume to about 50%.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=40 ~/Downloads/audio_extract_source.mp4`, then extract the first 10 seconds of audio to extracted.mp3.
+Open Firefox and visit https://www.wikipedia.org/ ; read the "Did You Know?" section.
+Open Visual Studio Code, create a file "style.scss" in ~/Downloads and write a simple style rule.
+Use Terminal to display the list of all directories in ~/Downloads and save the output to ~/Downloads/directories.txt.
+Open GIMP, load an image, apply a color adjustment, and save it back to ~/Downloads/adjusted_image.png.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=440:duration=4 ~/Downloads/music_one.wav` and `ffmpeg -f lavfi -i sine=frequency=520:duration=4 ~/Downloads/music_two.wav`, then play one track in VLC and create a playlist including the other.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=45 ~/Downloads/bitrate_video_source.mp4`, then change its bitrate with ffmpeg and save as changed_bitrate.mp4.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; explore the "Installation" section.
+Open Visual Studio Code, create a new file "app.js" in ~/Downloads, and add a comment.
+Use Terminal to display the last 10 lines of a log file in ~/Downloads and save it to ~/Downloads/recent_logs.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=lightblue:s=450x280:d=1 -frames:v 1 ~/Downloads/sample_text_base.png`, then add a 'Sample' text layer in GIMP and export as with_text.png.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/brightness_adjust_video.mp4`, then adjust the brightness in VLC while it plays.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=620 ~/Downloads/long_video.mp4`, then split it into 5-minute segments with ffmpeg and store them in ~/Downloads/segments.
+Open Visual Studio Code, create a file "script.py" in ~/Downloads, and write a greeting function.
+Use Terminal to find the largest file in ~/Downloads and save the name to ~/Downloads/largest_file.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=seagreen:s=480x320:d=1 -frames:v 1 ~/Downloads/sharpen_base.png`, then sharpen it in GIMP and save as sharpened_image.png.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=40 ~/Downloads/rotate_source.mp4`, then rotate it 90 degrees with ffmpeg and save as rotated_video.mp4.
+Open Firefox and visit https://example.com ; explore the content available on the page.
+In Nautilus, compress the folder ~/Downloads/Images into images_archive.zip.
+Open Visual Studio Code, create a file "styleguide.md" in ~/Downloads, and write a title and introduction.
+Use Terminal to check the disk space usage and save the result to ~/Downloads/disk_space.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=cornsilk:s=500x320:d=1 -frames:v 1 ~/Downloads/layer_base.png`, then open it in GIMP, add a new layer, and save the project.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=35 ~/Downloads/loop_playback.mp4`, then play it in VLC and enable loop playback.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=360:duration=4 ~/Downloads/audio_convert_source.wav`, then convert it to converted_audio.aac with ffmpeg.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; find the "Troubleshooting" section.
+Open Visual Studio Code, create a new file "config.json" in ~/Downloads and add key-value pairs.
+Use Terminal to display the top 5 memory-consuming processes and save to ~/Downloads/memory_processes.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=royalblue:s=400x400:d=1 -frames:v 1 ~/Downloads/icon.png` and `ffmpeg -f lavfi -i color=c=white:s=400x400:d=1 -frames:v 1 ~/Downloads/line_image.png`, then load both in GIMP as layers, arrange them, and export merged_layers.png.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/sub_settings_video.mp4` and create ~/Downloads/sub_settings_video.srt with a simple subtitle cue, then adjust subtitle settings in VLC while playing.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=40 ~/Downloads/audio_extract_video.mp4`, then extract its audio to ~/Downloads/audio_extract_video.wav with ffmpeg.
+Open Firefox and visit https://www.wikipedia.org/ ; explore the "History" section.
+Open Visual Studio Code, create a file "database.sql" in ~/Downloads and write a simple SQL command.
+Use Terminal to change to ~/Downloads, create a new empty file named "temp.txt".
+Open GIMP, load an image, resize it, and export it to ~/Downloads/thumbnail_image.png.
+Open VLC, load a video from ~/Downloads, and enable the audio normalizer.
+Use ffmpeg to transcode ~/Downloads/trimmed.mp4 to H.265 and save it as trimmed_h265.mp4.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; view the "Advanced" section.
+Open Visual Studio Code, create a file "index.php" in ~/Downloads and write a simple PHP echo statement.
+Use Terminal to find all files containing "report" in their names in ~/Downloads and save to ~/Downloads/report_files.txt.
+Open GIMP, create a new document, draw a line, and save it as a new file in ~/Downloads/line_image.png.
+Open VLC, load a video from ~/Downloads, and play it at half speed.
+Utilize ffmpeg to normalize the audio of a file in ~/Downloads and save it as normalized_audio.mp3.
+Open Firefox and go to https://example.com ; check the layout of the site.
+In Nautilus, extract images_archive.zip from ~/Downloads into a folder named 'Images_Extracted' inside ~/Downloads.
+Open Visual Studio Code, create a file "image_loader.js" in ~/Downloads and write a function to load images.
+Use Terminal to display the current system uptime and save to ~/Downloads/uptime.txt.
+Open GIMP, import an image, apply a color filter, and save as a new image in ~/Downloads/color_filtered_image.png.
+Open VLC, play an audio file from ~/Downloads, open the equalizer, tweak one slider slightly, and close the equalizer window.
+Utilize ffmpeg to capture a portion of a video in ~/Downloads, saving it to ~/Downloads/captured_segment.mp4.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; examine the "User Guide" section.
+Open Visual Studio Code, create a file "style.css" in ~/Downloads, and define styles for a web page.
+Use Terminal to list all files modified in the last day in ~/Downloads and save to ~/Downloads/recently_modified.txt.
+Open GIMP, load an image, apply a sepia tone, and save it as a new file in ~/Downloads/sepia_image.png.
+Open VLC, load a video from ~/Downloads, and open Tools > Media Information to review the details.
+Utilize ffmpeg to convert a video to a gif in ~/Downloads, saving as animated.gif.
+Open Visual Studio Code, create a file "data.json" in ~/Downloads and add sample data entries.
+Use Terminal to display disk usage for each directory in ~/Downloads and save to ~/Downloads/directory_usage.txt.
+Open GIMP, open an image, apply an effect, and save it as a new file in ~/Downloads/effect_image.png.
+Open VLC, load a video from ~/Downloads and play it in full screen.
+Utilize ffmpeg to adjust the volume of audio in ~/Downloads and save to ~/Downloads/louder_audio.mp3.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; review the "Customizing" section.
+Open Visual Studio Code, create a file "api.js" in ~/Downloads and write a simple fetch request.
+Use Terminal to list the top 10 largest files in ~/Downloads and save output to ~/Downloads/top10_large.txt.
+Open GIMP, create a new project, draw a circle, and save it to ~/Downloads/circle_image.png.
+Open VLC, load a video from ~/Downloads, and adjust the playback speed to 1.5x.
+Utilize ffmpeg to transcode a video from ~/Downloads and save it as a new file in ~/Downloads/transcoded.mp4.
+Open Firefox and visit https://www.wikipedia.org/ ; explore the "Geography" section.
+In Nautilus, compress ~/Downloads/Documents into documents_archive.tar.gz.
+Open Visual Studio Code, create a file "home.html" in ~/Downloads and write a basic structure.
+Use Terminal to find all files larger than 1MB in ~/Downloads and output to ~/Downloads/large_files.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=bisque:s=500x320:d=1 -frames:v 1 ~/Downloads/rotate_image_base.png`, then open it in GIMP, rotate, and export as rotated_image.png.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=410:duration=4 ~/Downloads/shuffle_track.wav`, then load it in VLC and enable shuffle playback.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=25 ~/Downloads/stream_info_source.mp4`, then list its streams with ffmpeg and save the output to stream_info.txt in ~/Downloads.
+Open Visual Studio Code, create a file "theme.css" in ~/Downloads and write a basic theme style.
+Use Terminal to check the system's CPU usage and save it to ~/Downloads/cpu_usage.txt.
+Open Visual Studio Code, create a file "form.html" in ~/Downloads and write a form structure.
+Open Visual Studio Code, create a file "test.py" in ~/Downloads and write a small test function.
+Open Visual Studio Code, create a file "data.csv" in ~/Downloads and add sample CSV data.
+In Nautilus, rename the file ~/Downloads/document.txt to ~/Downloads/renamed_document.txt.
+In Nautilus, create a new text file named "log.txt" in ~/Downloads.
+Use Terminal to run `mkdir -p ~/Downloads/Images && ffmpeg -f lavfi -i color=c=orange:s=200x200:d=1 -frames:v 1 ~/Downloads/Images/icon.png`, then in Nautilus create a folder named 'CopiedImages' in ~/Downloads and copy icon.png into it.
+In Nautilus, create a new directory called 'ImageExports' in ~/Downloads.
+Use Terminal to run `mkdir -p ~/Downloads/OldFiles && echo note > ~/Downloads/OldFiles/info.txt`, then move the 'OldFiles' folder to the Trash using Nautilus.
+Use Terminal to run `echo "<html></html>" > ~/Downloads/home.html`, then move the file to the Desktop in Nautilus.
+In Nautilus, create a new folder named 'ProjectDocs' in ~/Downloads.
+In Nautilus, create a shortcut for ~/Downloads on the Desktop.
+In Nautilus, clear the contents of the Trash.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; explore the "Support" section.
+In Nautilus, create a new folder titled "NewFiles" in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=linen:s=500x320:d=1 -frames:v 1 ~/Downloads/layer_base_image.png`, then open it in GIMP, add a new layer, and export as layered_image.png in ~/Downloads.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=360:duration=5 ~/Downloads/bass_settings.wav`, then load it in VLC and adjust the bass settings.
+Open Firefox and visit https://example.com ; look for any links on the page.
+Use Terminal to run `mkdir -p ~/Downloads/NewFiles && touch ~/Downloads/NewFiles/sample.txt`, then rename the directory to ~/Downloads/NewFilesArchive using Nautilus.
+Use Terminal to run `printf 'line %02d\n' {1..40} > ~/Downloads/sample_lines.txt` and then save the first 20 lines to ~/Downloads/first_20_lines.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=mistyrose:s=520x360:d=1 -frames:v 1 ~/Downloads/vignette_image_base.png`, then apply a vignette in GIMP and save as vignette_image.png.
+Use Terminal to run `ffmpeg -f lavfi -i testsrc=size=640x360:duration=30 ~/Downloads/snapshot_video.mp4`, then load it in VLC and capture a snapshot while playing.
+Open Firefox and navigate to https://ubuntu.com/tutorials ; view the "Community Support" section.
+In Nautilus, create a text file named "list.txt" in ~/Downloads and add three items.
+Use Terminal to display a list of all processes running on your system and save to ~/Downloads/process_list.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=lightsalmon:s=480x320:d=1 -frames:v 1 ~/Downloads/frame_image_base.png`, then add a frame in GIMP and save as framed_image.png.
+Open VLC, play a video from ~/Downloads and take a note of the current elapsed time.
+Utilize ffmpeg to create a video loop from a clip in ~/Downloads, saving as loop.mp4.
+Open Firefox and visit https://www.wikipedia.org/ ; explore the "Health" section.
+After creating ~/Downloads/first_20_lines.txt, delete it in Nautilus.
+Use Terminal to check the network status and save the output to ~/Downloads/network_status.txt.
+Use Terminal to run `ffmpeg -f lavfi -i color=c=lightsteelblue:s=400x300:d=1 -frames:v 1 ~/Downloads/canvas_base.png`, then open it in GIMP, create a new canvas arrangement, and export as canvas_image.png.
+Use Terminal to run `ffmpeg -f lavfi -i sine=frequency=360:duration=4 ~/Downloads/playlist_audio.wav`, then load it in VLC and save the current playlist as playlist.xspf in ~/Downloads.
+Open Calculator, switch to Scientific mode, and compute sin(30) with degrees enabled.
+Open Calculator and calculate (45 + 32) ÷ 7, showing the result.
+Open Calculator, compute 12 × 14, store the value in memory, then recall it.
+Open Calculator and find the cube root of 343.
+Open Calculator, switch to Programmer mode, and convert decimal 255 to hexadecimal.
+Open Calculator and compute 8! (factorial of 8).
+Open Calculator and evaluate 1000 × (1 + 0.05)^2.
+Open Calculator and find log10(500).
+Open Calculator and calculate 48.75 × 0.15 to determine a 15% tip.
+Open Calculator and compute 18% of 240.
+Open Sudoku, start a new easy puzzle, and fill one empty cell with the number 5.
+Open Sudoku, change the difficulty to medium, and request a single hint.
+Open Sudoku, enable pencil marks on a cell, add a note, then clear it.
+Open Mines, start a beginner game, flag one suspected mine, and reveal a safe tile.
+Open Mines, switch to intermediate difficulty, and restart the board.
+Open Mines, open the statistics window to review your win rate, then close it.
+Open Sudoku, use the Hint button once to fill a cell, then resume solving.
+Open Mines, open the Game menu, choose Custom…, set width to 12, height to 12, mines to 20, and start the board.
+Open Mahjong, open the Layouts list, select a different layout, and begin matching tiles.
+Open Aisleriot Solitaire, open the Statistics window for the current game, review it, then close the window.
+Open Calculator and evaluate (12 + 5) × (9 - 3).
+Open Calculator and compute 2^10 using the exponent key.
+Open Calculator, switch to Scientific mode, and calculate cos(60) with degrees enabled.
+Open Calculator and find ln(20).
+Open Calculator and divide 3.5 by 0.7.
+Open Calculator and compute 45 mod 8.
+Open Calculator and calculate √(12 × 27).
+Open Calculator and find 12% of 560.
+Open Calculator and compute (98 - 32) × 5 ÷ 9 to convert 98°F to Celsius.
+Open Calculator and evaluate (1 ÷ 3) × 0.75.
+Open Sudoku, start a hard puzzle, and pause the timer.
+Open Sudoku, toggle the option to highlight duplicates, then continue the puzzle.
+Open Sudoku, use undo once and then redo.
+Open Mines, start an expert game, and immediately restart to shuffle the board.
+Open Mines, enable the question mark flag option, mark one square, then disable it.
+Open Mines, open the high scores dialog and close it.
+Open Sudoku, turn Notes mode on, enter pencil marks in one cell, then turn Notes mode off.
+Open Mahjong, toggle fullscreen mode on, then exit fullscreen.
+Open Aisleriot Solitaire, choose the Klondike variant, and start a new deal.
+Open Aisleriot Solitaire, turn on autoplay for available moves, then turn it off.
+Open Calculator and compute the reciprocal of 0.25.
+Open Calculator and evaluate 7^2 + 5^2.
+Open Calculator, switch to Scientific mode, and calculate tan(45) with degrees enabled.
+Open Calculator and compute 1.7^3.
+Open Calculator and square 29.
+Open Calculator and calculate (12 + 18 + 30) ÷ 3.
+Open Calculator and compute 7 × 1000 to convert kilometers to meters.
+Open Calculator, use the π key to evaluate 2 × π × 5.
+Open Calculator, compute e^2 using the exponential key.
+Open Calculator, switch to Programmer mode, and convert binary 101101 to decimal.
+Open Aisleriot Solitaire, select 'Freecell' from the Select Game dialog, and start playing.
+Open Aisleriot Solitaire, use the Hint command once, then continue the deal.
+Open Aisleriot Solitaire, restart the current deal from the Game menu, and confirm the restart.
+Open Mines, change the board size to Large via the Game menu, and begin the new board.
+Open Mines, start a Medium board, place two flags on suspected mines, and reveal one safe tile.
+Open Sudoku, open the Game menu, select 'Print Preview', then close the preview window.
+Open GNOME Sudoku, check the puzzle for mistakes, acknowledge the result, and continue.
+Open GNOME Sudoku, open the Help menu, review keyboard shortcuts, then close the help window.
+Open Aisleriot Solitaire, switch to the Spider One Suit variant, and redeal the cards.
+Open Aisleriot Solitaire, undo the last move, then redo it.
+Open Calculator and compute 12345 ÷ 56.
+Open Calculator and evaluate (6! ÷ 4!).
+Open Calculator, switch to Scientific mode, and calculate log10(0.01).
+Open Calculator and compute (3^4) - (2^5).
+Open Calculator and calculate 2 ÷ (1 ÷ 3 + 1 ÷ 5).
+Open Calculator and evaluate √(144) + √(225).
+Open Calculator and compute ((102 - 85) ÷ 85) × 100 to find the percentage increase from 85 to 102.
+Open Calculator, switch to Programmer mode, and convert decimal 4096 to binary.
+Open Calculator, switch to radians, and compute sin(π ÷ 6).
+Open Calculator and calculate (45 + 55 + 65) ÷ 3.
+Open Mines, start a Small board, reveal three safe tiles, and leave the game running.
+Open Sudoku, start a Very Hard puzzle, then immediately switch back to a Medium puzzle.
+Open Mahjong, open Preferences, change the background color, and close the dialog.
+Open Mahjong, request a Hint, then undo that move to restore the tiles.
+Open Mines, place three flags on suspected mines, then remove one of them.
+Open Sudoku, use the 'Clear Board' command, then use Undo once to restore the puzzle.
+Open Mahjong, switch to the 'Four Winds' layout, then begin the puzzle.
+Open Mahjong, use the Hint feature once, then resume playing.
+Open Aisleriot Solitaire, toggle Fullscreen mode, then exit Fullscreen to return to the window.
+Open Aisleriot Solitaire, open the Select Game dialog and switch to 'Clock', then start dealing.
+Open Calculator and compute the percentage decrease from 120 to 90 using ((120 - 90) ÷ 120) × 100.
+Open Calculator and evaluate √2 × √8.
+Open Calculator, switch to radians, and compute sin(π ÷ 3).
+Open Calculator and compute 14^4.
+Open Calculator, switch to Programmer mode, and convert hexadecimal FF to decimal.
+Open Calculator and find ln(2.5).
+Open Calculator and evaluate (5 ÷ 8) + (7 ÷ 12).
+Open Calculator and compute 3^(-2) using the exponent key.
+Open Calculator and calculate 65% of 780.
+Open Calculator and evaluate 0.75 × 0.75.
+Open Sudoku, start a new medium puzzle, and enter the digit 4 into an empty cell.
+Open Sudoku, use the 'Clear Board' command to reset the puzzle.
+Open Mines, start an intermediate game, reveal one safe tile, then restart the board.
+Open Mines, open the About Mines window, then close it.
+Open Sudoku, pause the timer, wait a moment, then resume the puzzle.
+Open Mines, switch to a Medium board via the Game menu, then switch back to Small.
+Open Mahjong, change the tile set to a different style, then continue playing.
+Open Mahjong, reshuffle the current layout by starting a new game.
+Open Aisleriot Solitaire, open the View menu, hide the toolbar, then show it again.
+Open Mahjong, open the Help menu, read the game rules, then close the help window.
+Open Calculator, switch to Scientific mode, and compute arctan(1) with degrees enabled.
+Open Mines, open the Preferences dialog, disable sound effects, apply the change, then close the dialog.
+Open Aisleriot Solitaire, open the Status Bar option in the View menu, toggle it off, then turn it back on.

@@ -1,0 +1,17 @@
+numpy
+opencv-python
+pillow
+pandas
+pyautogui
+mss
+python-xlib
+cairosvg
+scipy
+psutil
+anthropic
+matplotlib
+requests
+beautifulsoup4
+selenium
+httpx
+tqdm
