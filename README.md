@@ -94,4 +94,4 @@ python3 main.py guiworld synthetic --count 1 --max-workers 1
 
 ###  Acknowledge 
 
-Our models (not released here) are built from [Wan2.1](https://github.com/Wan-Video/Wan2.1), [Matrix-Game-2](https://github.com/SkyworkAI/Matrix-Game). The data engine for CLIGen are built from [Asciinema](https://github.com/search?q=asciinema&type=repositories), [VHS](https://github.com/search?q=vhs&type=repositories), and GUIWorld are modified directly from [Neural-OS](https://neural-os.com/).
+Our models (not released here) are built from [Wan2.1](https://github.com/Wan-Video/Wan2.1), [Matrix-Game-2](https://github.com/SkyworkAI/Matrix-Game). The data engine for CLIGen are built from [Asciinema](https://github.com/search?q=asciinema&type=repositories), [VHS](https://github.com/search?q=vhs&type=repositories), and data engine for GUIWorld are modified directly from [Neural-OS](https://neural-os.com/).
