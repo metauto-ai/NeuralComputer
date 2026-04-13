@@ -95,4 +95,11 @@ python3 main.py guiworld synthetic --count 1 --max-workers 1
 ###  Acknowledge 
 
 
-Our models (not released here) are built from [Wan2.1](https://github.com/Wan-Video/Wan2.1), [Matrix-Game-2](https://github.com/SkyworkAI/Matrix-Game). The data engine for CLIGen (General) **is** built from [Asciinema](https://github.com/search?q=asciinema&type=repositories), data engine for CLIGen (clean) **is** from [VHS](https://github.com/search?q=vhs&type=repositories), and data engine for GUIWorld ([`synthetic_data_collection`](https://github.com/metauto-ai/NeuralComputer/tree/main/engine/gui/synthetic_data_collection)) is modified directly from [Neural-OS](https://neural-os.com/), and data engine for GUIWorld ([`computer_use_agent`](https://github.com/metauto-ai/NeuralComputer/tree/main/engine/gui/computer_use_agent)) is built according to [Claude CUA](https://github.com/anthropics/claude-quickstarts/tree/main/computer-use-demo).
+Our models (not released here) are built from [Wan2.1](https://github.com/Wan-Video/Wan2.1) and [Matrix-Game-2](https://github.com/SkyworkAI/Matrix-Game). The data engine for CLIGen (General) is built from [Asciinema](https://github.com/search?q=asciinema&type=repositories), the data engine for CLIGen (Clean) is from [VHS](https://github.com/search?q=vhs&type=repositories), the data engine for GUIWorld (Random) is modified directly from [Neural-OS](https://neural-os.com/), and the data engine for GUIWorld (CUA) is built according to [Claude CUA](https://github.com/anthropics/claude-quickstarts/tree/main/computer-use-demo).
+
+| Data Engine | Source |
+|---|---|
+| CLIGen (General) | [Asciinema](https://github.com/search?q=asciinema&type=repositories) |
+| CLIGen (Clean) | [VHS](https://github.com/search?q=vhs&type=repositories) |
+| GUIWorld (Random) | [Neural-OS](https://neural-os.com/) |
+| GUIWorld (CUA) | [Claude CUA](https://github.com/anthropics/claude-quickstarts/tree/main/computer-use-demo) |
