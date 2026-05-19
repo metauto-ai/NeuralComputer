@@ -103,3 +103,14 @@ Our models (not released here) are built from [Wan2.1](https://github.com/Wan-Vi
 | CLIGen (Clean) | [VHS](https://github.com/search?q=vhs&type=repositories) |
 | GUIWorld (Random) | [Neural-OS](https://neural-os.com/) |
 | GUIWorld (CUA) | [Claude CUA](https://github.com/anthropics/claude-quickstarts/tree/main/computer-use-demo) |
+
+### Reference
+
+```
+@article{zhuge2026neural,
+  title={Neural computers},
+  author={Zhuge, Mingchen and Zhao, Changsheng and Liu, Haozhe and Zhou, Zijian and Liu, Shuming and Wang, Wenyi and Chang, Ernie and Lan, Gael Le and Fei, Junjie and Zhang, Wenxuan and others},
+  journal={arXiv preprint arXiv:2604.06425},
+  year={2026}
+}
+```
